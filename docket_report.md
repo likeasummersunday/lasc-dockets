@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Monday, June 01, 2026 at 01:45 PM (Central, approx)
+**Generated:** Monday, June 01, 2026 at 01:56 PM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -11,18 +11,13 @@
 ## Doi Case — 24STCV08032
 
 ```
-English
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 CASE INFORMATION:	24STCV08032
 Case Title:	RYAN LEVIHN-COON, ET AL. VS GREGORY TOSHIO DOI, JR.
 Filing Courthouse:	Stanley Mosk Courthouse
 Filing Date:	3/29/2024
 Status:	Pending
-Click here to access document images for this case.
-If this link fails, you may go to the Case Document Images site and search using the case number displayed on this page
 Related	24STCV05152	8/16/2024
 FUTURE HEARINGS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 8/6/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Discovery (not "Further Discovery")
 8/6/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Discovery (not "Further Discovery")
 8/6/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Discovery (not "Further Discovery")
@@ -33,7 +28,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 10/1/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Further Discovery Responses
 10/1/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Further Discovery Responses
 PARTY INFORMATION
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 DOI ANDREA MARIE CROWL ALIAS ANDI DOI	Cross-Defendant
 DOI GREGORY TOSHIO JR.	Cross-Complainant
 DOI GREGORY TOSHIO JR.	Cross-Defendant
@@ -46,7 +40,6 @@ LEVIHN-COON RYAN	Cross-Defendant
 LEVIHN-COON RYAN	Cross-Complainant
 LEVIHN-COON RYAN	Plaintiff
 DOCUMENTS FILED
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/29/2026	Notice Re: Continuance of Hearing and Order	Filed by Clerk
 5/29/2026	Notice Re: Continuance of Hearing and Order	Filed by Clerk
 4/17/2026	Motion to Compel Discovery (not Further Discovery) - 1 moving party, 1 motion	Filed by Gregory Toshio Doi, Jr. (Defendant)
@@ -179,7 +172,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 3/29/2024	Order on Court Fee Waiver (Superior Court)	Filed by Clerk
 3/29/2024	Summons on Complaint	Filed by Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 PROCEEDINGS HELD
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 3/18/2026 08:30 AM	Department 36	Order to Show Cause Re:	Held
 3/18/2026 08:30 AM	Department 36	Trial Setting Conference	Held
 3/4/2026 08:30 AM	Department 36	Order to Show Cause Re:	Held - Continued
@@ -216,7 +208,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 8/6/2024 08:30 AM	Department 51	Case Management Conference	Not Held - Advanced and Continued - by Court
 6/26/2024 08:30 AM	Department 51	Hearing on Ex Parte Application	Held
 REGISTER OF ACTIONS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/29/2026	Notice Re: Continuance of Hearing and Order; Filed by: Clerk
 5/29/2026	Notice Re: Continuance of Hearing and Order; Filed by: Clerk
 5/29/2026	On the Court's own motion, Hearing on Demurrer - with Motion to Strike (CCP 430.10) scheduled for 07/30/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 Not Held - Rescheduled by Court was rescheduled to 08/11/2026 08:30 AM
@@ -462,22 +453,16 @@ Back To Top
 ## Scenic Case — 24STCV05152
 
 ```
-English
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 CASE INFORMATION:	24STCV05152
 Case Title:	RYAN LEVIHN-COON, ET AL. VS MARK ANDREW LARINTO, ET AL.
 Filing Courthouse:	Stanley Mosk Courthouse
 Filing Date:	2/29/2024
 Status:	Pending
-Click here to access document images for this case.
-If this link fails, you may go to the Case Document Images site and search using the case number displayed on this page
 Related	24STCV08032	8/16/2024
 FUTURE HEARINGS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 7/21/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Case Management Conference
 7/21/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Demurrer - with Motion to Strike (CCP 430.10)
 PARTY INFORMATION
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 DONAVAN MONIQUE R.	Attorney for Defendant
 GIRON LENA	Plaintiff
 LARINTO MARK ANDREW	Defendant
@@ -487,7 +472,6 @@ MARK ANDREW LARINTO IN HIS OFFICIAL CAPACITY AS CO-OWNER MANAGING PARTNER AND EM
 SCENIC EXPRESSIONS INC. A CALIFORNIA CORPORATION	Defendant
 TYLER VINCENT LARINTO IN HIS OFFICIAL CAPACITY AS MANAGER AND EMPLOYEE OF SCENIC EXPRESSIONS INC.	Defendant
 DOCUMENTS FILED
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/29/2026	Notice Re: Continuance of Hearing and Order	Filed by Clerk
 5/7/2026	Demurrer - with Motion to Strike (CCP 430.10)	Filed by Scenic Expressions, Inc., a California corporation (Defendant); Tyler Vincent Larinto, in his official capacity as manager and employee of Scenic Expressions, Inc. (Defendant); Mark Andrew Larinto, in his official capacity as co-owner, managing partner an
 5/7/2026	Motion to Strike (not initial pleading)	Filed by Scenic Expressions, Inc., a California corporation (Defendant); Tyler Vincent Larinto, in his official capacity as manager and employee of Scenic Expressions, Inc. (Defendant); Mark Andrew Larinto, in his official capacity as co-owner, managing partner an
@@ -570,7 +554,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 2/29/2024	Complaint	Filed by Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 2/29/2024	Notice of Case Assignment - Unlimited Civil Case	Filed by Clerk
 PROCEEDINGS HELD
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 3/18/2026 08:30 AM	Department 36	Order to Show Cause Re:	Held
 3/4/2026 08:30 AM	Department 36	Order to Show Cause Re:	Held - Continued
 9/11/2025 08:30 AM	Department 36	Hearing on Motion for Stay of Proceedings	Held - Advanced and Heard
@@ -602,7 +585,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 7/1/2024 08:30 AM	Department 36	Case Management Conference	Held - Continued
 4/15/2024 11:17 AM		Court Order	Held
 REGISTER OF ACTIONS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/29/2026	Notice Re: Continuance of Hearing and Order; Filed by: Clerk
 5/29/2026	On the Court's own motion, Case Management Conference scheduled for 07/30/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 Not Held - Rescheduled by Court was rescheduled to 07/21/2026 08:30 AM
 5/8/2026	Hearing on Demurrer - with Motion to Strike (CCP 430.10) scheduled for 07/21/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410
@@ -760,21 +742,15 @@ Back To Top
 ## Jan's Towing Case — 24STCV10654
 
 ```
-English
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 CASE INFORMATION:	24STCV10654
 Case Title:	RYAN LEVIHN-COON VS JAN'S TOWING, INC., ET AL.
 Filing Courthouse:	Stanley Mosk Courthouse
 Filing Date:	4/29/2024
 Status:	Pending
-Click here to access document images for this case.
-If this link fails, you may go to the Case Document Images site and search using the case number displayed on this page
 FUTURE HEARINGS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/26/2028	08:30	Department 400	111 North Hill Street, Los Angeles, CA 90012	Final Status Conference
 6/5/2028	08:30	Department 400	111 North Hill Street, Los Angeles, CA 90012	Non-Jury Trial
 PARTY INFORMATION
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 CALIFORNIA DEPARTMENT OF MOTOR VEHICLES	Defendant
 DOES 1-50	Defendant
 GORDON STEVEN	Defendant
@@ -785,7 +761,6 @@ MONTERO GARDENIA MARGARITA	Attorney for Defendant
 RITTER LIEN SALES INC.	Defendant
 RITTER LIEN SALES INC.	Defendant
 DOCUMENTS FILED
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/11/2026	Proof of Service (not Summons and Complaint)	Filed by Ryan Levihn-Coon (Plaintiff)
 5/11/2026	Proof of Service (not Summons and Complaint)	Filed by Ryan Levihn-Coon (Plaintiff)
 5/11/2026	Request for Dismissal ***NOT ENTERED***Must use revised form CIV-110 [Rev. January 1, 2025]	Filed by Ryan Levihn-Coon (Plaintiff)
@@ -923,7 +898,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 4/29/2024	Notice of Case Assignment - Unlimited Civil Case	Filed by Clerk
 4/29/2024	Order on Court Fee Waiver (Superior Court)	Filed by Clerk
 PROCEEDINGS HELD
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 4/24/2026 08:30 AM	Department 30	Case Management Conference	Held
 2/11/2026 08:30 AM	Department 30	Case Management Conference	Held - Continued
 2/11/2026 08:30 AM	Department 30	Hearing on Demurrer - without Motion to Strike	Held - Motion Granted
@@ -967,7 +941,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 9/26/2024 10:37 AM	Department 30	Nunc Pro Tunc Order
 9/26/2024 08:30 AM	Department 30	Case Management Conference	Not Held - Continued - Court's Motion
 REGISTER OF ACTIONS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/12/2026	Updated -- Request for Dismissal ***NOT ENTERED***Must use revised form CIV-110 [Rev. January 1, 2025]: Filed By: Ryan Levihn-Coon (Plaintiff); Result: Not Entered ; Name Extension: ***NOT ENTERED***Must use revised form CIV-110 [Rev. January 1, 2025] ; Result Date: 05/12/2026 ; As To Parties changed from California Department of Motor Vehicles (Defendant), Jan's Towing, Inc. (Defendant), Does 1-50 (Defendant), Steven Gordon (Defendant) to California Department of Motor Vehicles (Defendant), Steven Gordon (Defendant)
 5/12/2026	ERROR with ROA message definition 129 with DismissalParty:4240221 resulted in empty message
 5/12/2026	ERROR with ROA message definition 129 with DismissalParty:4240222 resulted in empty message
@@ -1263,21 +1236,15 @@ Back To Top
 ## Tesoro Case — 25STCV06166
 
 ```
-English
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 CASE INFORMATION:	25STCV06166
 Case Title:	LENA GIRON, ET AL. VS AMCAL TESORO DEL VALLE FUND, LP, A CALIFORNIA LIMITED PARTNERSHIP, ET AL.
 Filing Courthouse:	Stanley Mosk Courthouse
 Filing Date:	3/5/2025
 Status:	Pending
-Click here to access document images for this case.
-If this link fails, you may go to the Case Document Images site and search using the case number displayed on this page
 FUTURE HEARINGS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 8/11/2026	08:30	Department 617	111 North Hill Street, Los Angeles, CA 90012	Case Management Conference
 8/11/2026	08:30	Department 617	111 North Hill Street, Los Angeles, CA 90012	Order to Show Cause Re: Failure to File Proof of Service
 PARTY INFORMATION
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 ACOSTA JASON	Defendant
 AMCAL MULTI-HOUSING INC.	Defendant
 AMCAL TESORO DEL VALLE FUND LP	Defendant
@@ -1292,7 +1259,6 @@ RICKY'S TOLEDO TOWING SERVICE INC.	Defendant
 VAZ PERCIVAL JOSEPH	Defendant
 WALDRON TOMMY	Defendant
 DOCUMENTS FILED
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/6/2026	Certificate of Mailing for Notice of Case Reassignment and Order for Plaintiff to Give Notice	Filed by Clerk
 5/6/2026	Notice of Case Reassignment and Order for Plaintiff to Give Notice	Filed by Clerk
 3/19/2026	Certificate of Mailing for (Court Order) of 03/19/2026	Filed by Clerk
@@ -1313,7 +1279,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 3/5/2025	Complaint for Damages, Declaratory Relief, Injunctive Relief and Appointment of Receivership	Filed by Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff)
 3/5/2025	Summons on Complaint	Filed by Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff)
 PROCEEDINGS HELD
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 4/17/2026 08:30 AM	Department 68	Case Management Conference	Not Held - Advanced and Continued - by Court
 4/17/2026 08:30 AM	Department 68	Order to Show Cause Re: Failure to File Proof of Service	Not Held - Advanced and Continued - by Court
 3/19/2026 10:58 AM	Department 68	Court Order
@@ -1323,7 +1288,6 @@ Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | D
 3/13/2025 09:55 AM	Department 1	Court Order
 3/10/2025 3:52 PM	Department 7	Court Order
 REGISTER OF ACTIONS
-Case Information | Register Of Actions | FUTURE HEARINGS | PARTY INFORMATION | Documents Filed | Past Proceedings
 5/11/2026	Case reassigned to Stanley Mosk Courthouse in Department 617 - Hon. Jeffery D. McFarlandeffective 05/11/2026; Reason: Inventory Transfer
 5/6/2026	Certificate of Mailing for Notice of Case Reassignment and Order for Plaintiff to Give Notice; Filed by: Clerk
 5/6/2026	Notice of Case Reassignment and Order for Plaintiff to Give Notice; Filed by: Clerk
