@@ -1,16 +1,11 @@
 name: Check LASC Dockets
 
-# This lets you run it two ways:
-#   1. Manually — tap the "Run workflow" button in the GitHub app (workflow_dispatch)
-#   2. Automatically — every weekday morning (schedule)
 on:
   workflow_dispatch:
   schedule:
-    # 12:00 UTC = 7:00 AM Central (CDT) / 6:00 AM Central (CST)
-    # Runs Monday through Friday
+    # 12:00 UTC = 7:00 AM Central (CDT) / 6:00 AM Central (CST), weekdays
     - cron: '0 12 * * 1-5'
 
-# Allow the workflow to commit the report back to the repo
 permissions:
   contents: write
 
@@ -34,6 +29,19 @@ jobs:
 
       - name: Run docket checker
         run: python check_dockets.py
+
+      - name: Email report
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "LASC Docket Report"
+          to: ${{ secrets.MAIL_USERNAME }}
+          from: LASC Docket Bot
+          body: file://docket_report.md
 
       - name: Commit report
         run: |
