@@ -52,7 +52,8 @@ async def scrape_case(page, case_number, case_name):
             out.append("> ⚠️ Could not find case number input field on page.\n")
             return "\n".join(out)
 
-        await case_input.triple_click()
+        await case_input.click(click_count=3)
+        await case_input.fill("")
         await case_input.type(case_number, delay=80)
         await page.wait_for_timeout(500)
 
