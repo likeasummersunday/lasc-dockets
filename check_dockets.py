@@ -1,8 +1,7 @@
 """
-LASC Docket Checker — Cloud version
-Uses the OFFICIAL entry URL (sets up the session), handles the form whether
-it sits in the main page or an embedded sub-frame, and falls back to
-diagnostic output if a case can't be read.
+LASC Docket Checker — Cloud version (with readability cleanup)
+Official entry URL sets up the session; handles main page or sub-frame;
+strips navigation menus and boilerplate while preserving all substantive rows.
 """
 
 import asyncio
@@ -20,9 +19,20 @@ ENTRY_URL = ("https://www.lacourt.ca.gov/pages/lp/access-a-case/"
              "tp/find-case-information/cp/os-civil-case-access")
 CENTRAL = timezone(timedelta(hours=-5))
 
+SKIP = [
+    "google", "translate", "disclaimer", "official language",
+    "copyright", "privacy statement", "loading, please wait",
+    "language access", "espanol", "espa\u00f1ol", "ti\u1ebfng vi\u1ec7t",
+    "\ud55c\uad6d\uc5b4", "\u4e2d\u6587", "\u0570\u0561\u0575\u0565\u0580\u0565\u0576",
+    "attorney portal", "select a courthouse", "landlord tenant",
+    "limited jurisdiction", "general jurisdiction", "this site includes",
+    "view important information", "does not constitute", "is being provided",
+    "not liable", "case-by-case", "you may also use", "click here to access",
+    "if this link fails",
+]
+
 
 async def find_form_frame(page):
-    """Return the frame containing #txtCaseNumber, or None."""
     for _ in range(8):
         for fr in page.frames:
             try:
@@ -35,7 +45,6 @@ async def find_form_frame(page):
 
 
 async def longest_frame_text(page):
-    """After submit, the results live in whichever frame has the most text."""
     best = ""
     for fr in page.frames:
         try:
@@ -48,19 +57,21 @@ async def longest_frame_text(page):
 
 
 def clean(text):
-    lines = [l.strip() for l in text.split("\n")]
-    lines = [l for l in lines if l and len(l) > 2]
-    skip = [
-        "google", "translate", "disclaimer", "official language",
-        "copyright", "privacy statement", "loading, please wait",
-        "language access", "espanol", "espa\u00f1ol", "ti\u1ebfng vi\u1ec7t",
-        "\ud55c\uad6d\uc5b4", "\u4e2d\u6587", "\u0570\u0561\u0575\u0565\u0580\u0565\u0576",
-        "attorney portal", "select a courthouse", "landlord tenant",
-        "limited jurisdiction", "general jurisdiction", "this site includes",
-        "view important information", "does not constitute", "is being provided",
-        "not liable", "case-by-case", "you may also use",
-    ]
-    return [l for l in lines if not any(p in l.lower() for p in skip)]
+    out = []
+    for raw in text.split("\n"):
+        l = raw.strip()
+        if not l or len(l) < 3:
+            continue
+        low = l.lower()
+        if low == "english":
+            continue
+        # drop the repeated pipe-delimited navigation menu lines
+        if l.count("|") >= 3:
+            continue
+        if any(p in low for p in SKIP):
+            continue
+        out.append(l)
+    return out
 
 
 async def scrape_case(page, case_number, case_name):
@@ -73,8 +84,7 @@ async def scrape_case(page, case_number, case_name):
         frame = await find_form_frame(page)
         if frame is None:
             body = await longest_frame_text(page)
-            out.append("> WARNING: Could not find the case-number field. "
-                       "Page may have changed. First 800 chars seen:\n")
+            out.append("> WARNING: Could not find the case-number field. First 800 chars:\n")
             out.append("```\n" + body[:800] + "\n```\n")
             return "\n".join(out)
 
@@ -88,12 +98,10 @@ async def scrape_case(page, case_number, case_name):
             await frame.press("#txtCaseNumber", "Enter")
 
         await page.wait_for_timeout(7000)
-
         text = await longest_frame_text(page)
 
         if "an exception occurred" in text.lower():
-            out.append("> WARNING: LASC returned 'An exception occurred'. "
-                       "Entry path may need adjustment. First 800 chars:\n")
+            out.append("> WARNING: LASC returned 'An exception occurred'. First 800 chars:\n")
             out.append("```\n" + text[:800] + "\n```\n")
         else:
             filtered = clean(text)
