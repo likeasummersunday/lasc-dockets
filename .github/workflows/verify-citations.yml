@@ -1,8 +1,14 @@
 name: Verify Citations
 
-# Manual trigger only — run this when you have a draft ready to check.
+# Paste your draft into the box when you click "Run workflow".
+# Leave it blank to fall back to an uploaded draft_to_check.txt instead.
 on:
   workflow_dispatch:
+    inputs:
+      draft:
+        description: "Paste the draft text to verify (leave blank to use draft_to_check.txt)"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -22,6 +28,7 @@ jobs:
       - name: Run citation verifier
         env:
           COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+          DRAFT_TEXT: ${{ inputs.draft }}
         run: python verify_citations.py
 
       - name: Email report
