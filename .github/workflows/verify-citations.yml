@@ -1,0 +1,46 @@
+name: Verify Citations
+
+# Manual trigger only — run this when you have a draft ready to check.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run citation verifier
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python verify_citations.py
+
+      - name: Email report
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Citation Verification Report"
+          to: ${{ secrets.MAIL_USERNAME }}
+          from: Citation Bot
+          body: file://citation_report.md
+
+      - name: Commit report
+        run: |
+          git config user.name "Citation Bot"
+          git config user.email "actions@github.com"
+          git add citation_report.md
+          git commit -m "Citation report $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push
