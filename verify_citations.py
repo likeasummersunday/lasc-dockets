@@ -32,6 +32,11 @@ QUOTE_RE = re.compile(r'["\u201c]([^"\u201c\u201d]{20,}?)["\u201d]', re.DOTALL)
 
 
 def read_draft():
+    # Prefer text pasted into the workflow "Run" box (never stored in the repo)
+    pasted = os.environ.get("DRAFT_TEXT", "")
+    if pasted.strip():
+        return "pasted text", pasted
+    # Fall back to an uploaded file (useful for very long briefs)
     for name in ("draft_to_check.txt", "draft_to_check.md"):
         if os.path.exists(name):
             with open(name, encoding="utf-8") as f:
@@ -150,7 +155,8 @@ def main():
 
     fname, text = read_draft()
     if not text:
-        out.append("> ERROR: No draft found. Upload `draft_to_check.txt` (or `.md`) and rerun.")
+        out.append("> ERROR: No draft provided. Paste your draft into the workflow "
+                   "\"Run\" box, or upload `draft_to_check.txt`, then rerun.")
         write(out)
         return
 
