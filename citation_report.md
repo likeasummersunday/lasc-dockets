@@ -1,12 +1,12 @@
 # Citation Verification Report
 
-**Generated:** Monday, June 01, 2026 at 03:10 PM (Central)
+**Generated:** Monday, June 01, 2026 at 03:19 PM (Central)
 
 > **What the checkmarks mean.** *Citation verified* = the cite resolves to a real case. *Quote found* = the words appear in the opinion text. Neither confirms the case supports your argument, nor that a quote is from the majority or used in fair context. A human must read the case before filing.
 
 ---
 
-**Document checked:** draft_to_check.txt (446 characters)
+**Document checked:** pasted text (286 characters)
 
 ## Citations — Verified: 2  |  Not found: 0  |  Ambiguous: 0
 
@@ -29,11 +29,9 @@
 
 ## Quotation Check
 
-- ✅ “must be judged
-from the perspective of a reasonable officer on the scene, rather than with…”
+- ✅ “must be judged from the perspective of a reasonable officer on the scene, rather than with…”
   → FOUND in **490 U.S. 386** (Graham v. Connor).
-- ❌ “every police officer must personally
-apologize to a suspect before any arrest may lawfully…”
+- ❌ “officers must always apologize first.”
   → NOT FOUND in **384 U.S. 436** (Miranda v. Arizona). Check the wording, or whether the quote belongs to a different case.
 
 **Quotes checked against opinion text:** 2 of 2 detected.
