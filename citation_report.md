@@ -1,14 +1,16 @@
 # Citation Verification Report
 
-**Generated:** Monday, June 01, 2026 at 02:38 PM (Central)
+**Generated:** Monday, June 01, 2026 at 03:02 PM (Central)
 
-> VERIFIED = the citation resolves to a real case in CourtListener. It does NOT confirm the case says what the draft claims. Always read the case before filing.
+> **What the checkmarks mean.** *Citation verified* = the cite resolves to a real case. *Quote found* = the words appear in the opinion text. Neither confirms the case supports your argument, nor that a quote is from the majority or used in fair context. A human must read the case before filing.
 
 ---
 
 **Document checked:** draft_to_check.txt (609 characters)
 
-## VERIFIED — 3
+## Citations — Verified: 3  |  Not found: 1  |  Ambiguous: 0
+
+### VERIFIED
 
 - **490 U.S. 386** — Graham v. Connor  
   https://www.courtlistener.com/opinion/112257/graham-v-connor/
@@ -17,14 +19,16 @@
 - **6 Cal.3d 628** — People v. Anderson  
   https://www.courtlistener.com/opinion/1260876/people-v-anderson/
 
-## NOT FOUND — review before filing — 1
+### NOT FOUND — review before filing
 
-- **7 Cal.5th 9999** — not found in CourtListener. Verify manually: may be misquoted, very recent, unpublished, a non-CourtListener reporter, or fabricated.
+- **7 Cal.5th 9999** — not in CourtListener. May be misquoted, very recent, unpublished, a non-covered reporter, or fabricated.
 
-## AMBIGUOUS / multiple matches — 0
+### AMBIGUOUS
 
 - (none)
 
 ---
 
-**Summary:** 3 verified, 1 not found, 0 ambiguous. Read every case before relying on it.
+## Quotation Check
+
+No quoted passages (in quotation marks) were detected. Note: indented block quotes without quotation marks are not checked in this version.
