@@ -1,23 +1,24 @@
 """
-Citation Verifier v2 — checks (1) each citation resolves to a real case, and
-(2) each quoted passage actually appears in that case's opinion text.
+Citation Verifier v2.1 — citation existence + quotation checking, with
+polite rate-limit handling (retries on HTTP 429).
 
-Reads draft_to_check.txt (or .md), uses CourtListener's Citation Lookup API to
-resolve citations, then fetches the real opinion text to confirm quotations.
+Reads draft_to_check.txt (or .md). Resolves citations via CourtListener's
+Citation Lookup API, then fetches real opinion text to confirm quotations.
 
-IMPORTANT LIMITS:
+LIMITS:
 - "Citation verified" = the cite resolves to a real case. Not that it supports your point.
-- "Quote found" = the words appear in the opinion text. NOT that they are from the
-  majority (vs. a dissent), nor that they are used in fair context. A human must still
-  confirm the case stands for the proposition and the quote is used correctly.
+- "Quote found" = the words appear in the opinion text. NOT that the quote is from the
+  majority (vs. dissent) or used in fair context. A human must read the case before filing.
 """
 
 import os
 import re
 import json
 import html
+import time
 import urllib.request
 import urllib.parse
+import urllib.error
 from datetime import datetime, timezone, timedelta
 
 TOKEN = os.environ.get("COURTLISTENER_TOKEN", "").strip()
@@ -25,8 +26,8 @@ LOOKUP_API = "https://www.courtlistener.com/api/rest/v4/citation-lookup/"
 BASE = "https://www.courtlistener.com"
 CENTRAL = timezone(timedelta(hours=-5))
 MAX_CHARS = 64000
+PInterval = 1.5  # polite pause between API calls (seconds)
 
-# opening quote (straight or left-curly) ... closing quote (straight or right-curly)
 QUOTE_RE = re.compile(r'["\u201c]([^"\u201c\u201d]{20,}?)["\u201d]', re.DOTALL)
 
 
@@ -38,24 +39,36 @@ def read_draft():
     return None, None
 
 
-def authed_get(url):
-    req = urllib.request.Request(url, headers={
+def _request(url=None, data=None):
+    headers = {
         "Authorization": f"Token {TOKEN}",
         "User-Agent": "pro-se-citation-verifier",
-    })
-    with urllib.request.urlopen(req, timeout=90) as r:
-        return json.loads(r.read().decode())
+    }
+    if data is not None:
+        headers["Content-Type"] = "application/x-www-form-urlencoded"
+    target = url or LOOKUP_API
+    return urllib.request.Request(target, data=data, headers=headers)
+
+
+def _call(url=None, data=None, retries=5):
+    """GET (url) or POST (data) with retry/backoff on HTTP 429."""
+    for attempt in range(retries):
+        try:
+            req = _request(url=url, data=data)
+            with urllib.request.urlopen(req, timeout=90) as r:
+                time.sleep(PInterval)  # be polite after every successful call
+                return json.loads(r.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries - 1:
+                retry_after = e.headers.get("Retry-After")
+                wait = int(retry_after) if (retry_after and retry_after.isdigit()) else (2 ** attempt) * 5
+                time.sleep(min(wait, 65))
+                continue
+            raise
 
 
 def citation_lookup(text):
-    data = urllib.parse.urlencode({"text": text}).encode()
-    req = urllib.request.Request(LOOKUP_API, data=data, headers={
-        "Authorization": f"Token {TOKEN}",
-        "Content-Type": "application/x-www-form-urlencoded",
-        "User-Agent": "pro-se-citation-verifier",
-    })
-    with urllib.request.urlopen(req, timeout=90) as r:
-        return json.loads(r.read().decode())
+    return _call(data=urllib.parse.urlencode({"text": text}).encode())
 
 
 def strip_html(s):
@@ -65,31 +78,28 @@ def strip_html(s):
 
 
 def get_opinion_text(cluster):
-    """Return (text, note). Fetches the opinion text for a matched cluster."""
     try:
         sub = cluster.get("sub_opinions")
-        # If we only have a cluster id, fetch the cluster detail to get sub_opinions
         if not sub and cluster.get("id"):
-            detail = authed_get(f"{BASE}/api/rest/v4/clusters/{cluster['id']}/")
+            detail = _call(url=f"{BASE}/api/rest/v4/clusters/{cluster['id']}/")
             sub = detail.get("sub_opinions")
         if not sub:
-            return "", "no sub_opinions found for this cluster"
-
+            return "", "no sub_opinions found"
         texts = []
-        for item in sub[:5]:  # cap opinions per case
-            url = item if isinstance(item, str) else item.get("resource_uri") or item.get("id")
+        for item in sub[:4]:
+            url = item if isinstance(item, str) else (item.get("resource_uri") or item.get("id"))
             if isinstance(url, int):
                 url = f"{BASE}/api/rest/v4/opinions/{url}/"
-            if url and url.startswith("/"):
+            if isinstance(url, str) and url.startswith("/"):
                 url = BASE + url
             if not url:
                 continue
-            op = authed_get(url)
+            op = _call(url=url)
             for field in ("plain_text", "html_with_citations", "html",
                           "html_lawbox", "html_columbia", "xml_harvard"):
                 val = op.get(field)
                 if val:
-                    texts.append(strip_html(val) if field != "plain_text" else val)
+                    texts.append(val if field == "plain_text" else strip_html(val))
                     break
         if not texts:
             return "", "opinion record had no readable text"
@@ -100,13 +110,12 @@ def get_opinion_text(cluster):
 
 def normalize(s):
     s = s.lower()
-    s = re.sub(r"[\u201c\u201d\u2018\u2019'`\"\[\]]", "", s)  # quotes, brackets
+    s = re.sub(r"[\u201c\u201d\u2018\u2019'`\"\[\]]", "", s)
     s = re.sub(r"\s+", " ", s)
     return s.strip()
 
 
 def quote_found(quote, opinion_norm):
-    """True if the quote (allowing for ... omissions) appears in opinion text."""
     segments = re.split(r"\.\.\.|\u2026|\. \. \.", quote)
     segs = [normalize(s) for s in segments]
     segs = [s for s in segs if len(s) >= 15]
@@ -147,7 +156,6 @@ def main():
 
     out.append(f"**Document checked:** {fname} ({len(text):,} characters)\n")
 
-    # --- 1. Resolve citations ---
     chunks = [text[i:i + MAX_CHARS] for i in range(0, len(text), MAX_CHARS)] or [""]
     results = []
     try:
@@ -158,7 +166,6 @@ def main():
         write(out)
         return
 
-    # Map citation string -> first matched cluster (for verified cites)
     verified, notfound, ambiguous = [], [], []
     cite_cluster = {}
     seen = set()
@@ -199,38 +206,28 @@ def main():
         out.append("- (none)")
     out.append("\n---\n")
 
-    # --- 2. Quotation checking ---
     out.append("## Quotation Check\n")
 
-    # find positions of each citation string in the draft
-    cite_positions = []
-    for cite in cite_cluster:
-        idx = text.find(cite)
-        if idx >= 0:
-            cite_positions.append((idx, cite))
-    cite_positions.sort()
-
+    cite_positions = sorted((text.find(c), c) for c in cite_cluster if text.find(c) >= 0)
     quotes = [(m.group(1).strip(), m.start(), m.end()) for m in QUOTE_RE.finditer(text)]
     quotes = [(q, s, e) for (q, s, e) in quotes if len(q.split()) >= 4]
 
     if not quotes:
         out.append("No quoted passages (in quotation marks) were detected. "
-                   "Note: indented block quotes without quotation marks are not checked in this version.\n")
+                   "Indented block quotes without quotation marks are not checked in this version.\n")
         write(out)
         return
 
-    # cache opinion text per citation to avoid refetching
     op_cache = {}
     checked = 0
     for quote, qs, qe in quotes:
-        # nearest citation at or after the quote's end; else nearest before
         following = [(pos, c) for (pos, c) in cite_positions if pos >= qe]
         preceding = [(pos, c) for (pos, c) in cite_positions if pos <= qs]
         assoc = following[0][1] if following else (preceding[-1][1] if preceding else None)
 
-        short = (quote[:90] + "…") if len(quote) > 90 else quote
+        short = (quote[:90] + "\u2026") if len(quote) > 90 else quote
         if assoc is None:
-            out.append(f"- \u201c{short}\u201d\n  → no nearby verified citation to check against.")
+            out.append(f"- \u201c{short}\u201d\n  \u2192 no nearby verified citation to check against.")
             continue
 
         if assoc not in op_cache:
@@ -239,19 +236,19 @@ def main():
         case_name = next((n for (c, n, u) in verified if c == assoc), assoc)
 
         if not op_text:
-            out.append(f"- \u201c{short}\u201d\n  → paired with **{assoc}** ({case_name}); "
+            out.append(f"- \u201c{short}\u201d\n  \u2192 paired with **{assoc}** ({case_name}); "
                        f"could not fetch opinion text ({note}). Verify manually.")
             continue
 
         checked += 1
         res = quote_found(quote, normalize(op_text))
         if res is True:
-            out.append(f"- ✅ \u201c{short}\u201d\n  → FOUND in **{assoc}** ({case_name}).")
+            out.append(f"- \u2705 \u201c{short}\u201d\n  \u2192 FOUND in **{assoc}** ({case_name}).")
         elif res is False:
-            out.append(f"- ❌ \u201c{short}\u201d\n  → NOT FOUND in **{assoc}** ({case_name}). "
-                       "Check wording, or whether the quote belongs to a different case.")
+            out.append(f"- \u274c \u201c{short}\u201d\n  \u2192 NOT FOUND in **{assoc}** ({case_name}). "
+                       "Check the wording, or whether the quote belongs to a different case.")
         else:
-            out.append(f"- ⚠️ \u201c{short}\u201d\n  → too short to check reliably; verify manually.")
+            out.append(f"- \u26a0\ufe0f \u201c{short}\u201d\n  \u2192 too short to check reliably; verify manually.")
 
     out.append(f"\n**Quotes checked against opinion text:** {checked} of {len(quotes)} detected.")
     out.append("\nReminder: a found quote may still be from a dissent or used out of context. Read the case.")
