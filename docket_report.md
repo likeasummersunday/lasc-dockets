@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Thursday, June 04, 2026 at 02:49 PM (Central, approx)
+**Generated:** Friday, June 05, 2026 at 01:31 PM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -925,8 +925,8 @@ PROCEEDINGS HELD
 5/28/2025 08:30 AM	Department 30	Order to Show Cause Re:	Held
 5/28/2025 08:30 AM	Department 30	Status Conference	Held
 2/27/2025 08:31 AM	Department 30	Nunc Pro Tunc Order
-2/27/2025 08:30 AM	Department 30	Case Management Conference	Held - Advanced and Heard
 2/27/2025 08:30 AM	Department 30	Case Management Conference	Not Held - Clerical Error
+2/27/2025 08:30 AM	Department 30	Case Management Conference	Held - Advanced and Heard
 2/27/2025 08:30 AM	Department 30	Hearing on Motion to Compel Discovery (not "Further Discovery")	Not Held - Clerical Error
 2/27/2025 08:30 AM	Department 30	Status Conference	Held - Continued
 2/24/2025 08:30 AM	Department 30	Case Management Conference	Not Held - Clerical Error
@@ -985,23 +985,23 @@ REGISTER OF ACTIONS
 1/28/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
 1/14/2026	Updated -- Request for Judicial Notice [CRS #: 115635568437]: Name Extension: [CRS #: 115635568437]
 1/14/2026	Updated -- Demurrer by Defendants Steven Gordon and California Department of Motor Vehicles' to Plaintiff's First Amended Complaint [CRS #: 115635568437]: Exact Name: Demurrer by Defendants Steven Gordon and California Department of Motor Vehicles' to Plaintiff's First Amended Complaint [CRS #: 115635568437]
-1/14/2026	Clerks Certificate of Service By Electronic Service; Issued and Filed by: Clerk; As to: Gardenia Margarita Montero (Attorney); John Harrold (Attorney); Ryan Levihn-Coon (Plaintiff)
-1/14/2026	Updated -- Notice Re: Continuance of Hearing and Order re Case Management Conference: Name Extension: re Case Management Conference
 1/14/2026	Notice Re: Continuance of Hearing and Order; Filed by: Clerk
+1/14/2026	Updated -- Notice Re: Continuance of Hearing and Order re Case Management Conference: Name Extension: re Case Management Conference
+1/14/2026	Clerks Certificate of Service By Electronic Service; Issued and Filed by: Clerk; As to: Gardenia Margarita Montero (Attorney); John Harrold (Attorney); Ryan Levihn-Coon (Plaintiff)
 1/14/2026	Updated -- Gardenia Margarita Montero (Attorney): Organization Name changed from DOJ - ATTORNEY GENERAL - LOS ANGELES to DOJ - Attorney General - Los Angeles
 1/14/2026	On the Court's own motion, Case Management Conference scheduled for 01/22/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Not Held - Rescheduled by Court was rescheduled to 02/11/2026 08:30 AM
 12/23/2025	Stipulation and Order STIPULATION RE PUNITIVE DAMAGES AND PRE-JUDGMENT INTEREST; [PROPOSED] ORDER; Signed and Filed by: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 12/22/2025	Updated -- Stipulation and Order STIPULATION RE PUNITIVE DAMAGES AND PRE-JUDGMENT INTEREST; [PROPOSED] ORDER: Filed By: California Department of Motor Vehicles (Defendant),Steven Gordon (Defendant); Result: Granted ; Result Date: 12/22/2025
 12/19/2025	Hearing on Demurrer - without Motion to Strike scheduled for 02/11/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 12/19/2025	Updated -- Gardenia Margarita Montero (Attorney): Organization Name changed from DOJ - Attorney General - Los Angeles to DOJ - ATTORNEY GENERAL - LOS ANGELES
-12/18/2025	Request for Judicial Notice; Filed by: California Department of Motor Vehicles (Defendant)
 12/18/2025	Demurrer - without Motion to Strike; Filed by: California Department of Motor Vehicles (Defendant)
+12/18/2025	Request for Judicial Notice; Filed by: California Department of Motor Vehicles (Defendant)
 11/17/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 11/17/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
 11/17/2025	Response - ASSIGNEE, SUCCESSOR-IN-INTEREST AND SUBSTITUTE PLAINTIFF WILLIAM LEVIHN-COON?S SUPPLEMENTARY RESPONSES TO DEFENDANT JAN?S TOWING, INC.?S REQUEST FOR PRODUCTION OF DOCUMENTS, SET ONE; Filed by: Ryan Levihn-Coon (Plaintiff)
 11/13/2025	Updated -- Amended Complaint (1st): Name Extension changed from (1st) to (1st)
-11/6/2025	Proof of Service (not Summons and Complaint); Filed by: William Levihn-Coon (Assignee); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 11/6/2025	Proof of Service (not Summons and Complaint); Filed by: William Levihn-Coon (Assignee); As to: Jan's Towing, Inc. (Defendant)
+11/6/2025	Proof of Service (not Summons and Complaint); Filed by: William Levihn-Coon (Assignee); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 11/6/2025	Case Management Conference scheduled for 01/22/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 11/6/2025	Minute Order (Case Management Conference; Order to Show Cause Re: Entry of ...)
 11/6/2025	Case Management Conference scheduled for 11/06/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Held - Continued was rescheduled to 01/22/2026 08:30 AM
@@ -1027,8 +1027,8 @@ REGISTER OF ACTIONS
 10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 427405358319]: Name Extension: [CRS #: 427405358319]
 10/10/2025	Updated -- Notice of Lodging of Declaration of William Levihn-Coon - September 3, 2025 [CRS #: 427405358319]: Name Extension changed from of Declaration of William Levihn-Coon - September 3, 2025 to of Declaration of William Levihn-Coon - September 3, 2025 [CRS #: 427405358319]
 10/10/2025	Updated -- Notice of Lodging of Declaration of Ryan Levihn-Coon - August 30, 2025 [CRS #: 427405358319]: Name Extension changed from of Declaration of Ryan Levihn-Coon - August 30, 2025 to of Declaration of Ryan Levihn-Coon - August 30, 2025 [CRS #: 427405358319]
-10/10/2025	Updated -- Notice of Lodging of Declaration of William Levihn-Coon Dated September 3, 2025: Name Extension changed from of Declaration of William Levihn-Coon to of Declaration of William Levihn-Coon Dated September 3, 2025
 10/10/2025	Updated -- Notice of Lodging of Declaration of William Levihn-Coon Dated September 3, 2025 [CRS #: 427405358319]: Name Extension changed from of Declaration of William Levihn-Coon Dated September 3, 2025 to of Declaration of William Levihn-Coon Dated September 3, 2025 [CRS #: 427405358319]
+10/10/2025	Updated -- Notice of Lodging of Declaration of William Levihn-Coon Dated September 3, 2025: Name Extension changed from of Declaration of William Levihn-Coon to of Declaration of William Levihn-Coon Dated September 3, 2025
 10/10/2025	Updated -- Declaration of Plaintiff Ryan Levihn-Coon ISO Orders Granting 1) Substitution of Plaintiff and 2) Brief continuances of Hearings of Defendants Jan's Towing, Inc.'s Motion to Compel and Teven Gordon, et al.'s Demurrer [CRS #: 389484513832]: Name Extension changed from of Plaintiff Ryan Levihn-Coon ISO Orders Granting Substitution & continuance to of Plaintiff Ryan Levihn-Coon ISO Orders Granting 1) Substitution of Plaintiff and 2) Brief continuances of Hearings of Defendants Jan's Towing, Inc.'s Motion to Compel and Teven Gordon, et al.'s Demurrer [CRS #: 389484513832]
 10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 389484513832]: Name Extension: [CRS #: 389484513832]
 10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 389484513832]: Name Extension: [CRS #: 389484513832]
@@ -1036,7 +1036,9 @@ REGISTER OF ACTIONS
 10/10/2025	Updated -- Motion for Order Granting: 1) Substitution of Plaintiff; and 2) Brief Continuances of Hearings of Defendants; Jan's Towing, Inc's Motion to Compel and Steven Gordon, et al's Demurrer [CRS #: 389484513832]: Name Extension changed from Granting: 1) Substitution of Plaintiff; and 2) Brief Continuances of Hearings of Defendants; Jan's Towing, Inc's Motion to Compel and Steven Gordon, et al's Demurrer to Granting: 1) Substitution of Plaintiff; and 2) Brief Continuances of Hearings of Defendants; Jan's Towing, Inc's Motion to Compel and Steven Gordon, et al's Demurrer [CRS #: 389484513832]
 10/10/2025	Updated -- Declaration of William Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer [CRS #: 389052734363]: Name Extension changed from of William Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer to of William Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer [CRS #: 389052734363]
 10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 389052734363]: Name Extension: [CRS #: 389052734363]
+10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 389052734363]: Name Extension: [CRS #: 389052734363]
 10/10/2025	Updated -- Declaration of Plaintiff Ryan Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer [CRS #: 389052734363]: Name Extension changed from of Plaintiff Ryan Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer to of Plaintiff Ryan Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer [CRS #: 389052734363]
+10/10/2025	Updated -- Opposition to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action [CRS #: 389052734363]: Name Extension changed from to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action, Memorandum of Points and Authorities to to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action [CRS #: 389052734363]
 10/10/2025	Updated -- Declaration of Gardenia Montero ISO Defendant DMVs' Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension changed from of G. Montero ISO DMVs' Opp. to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer to of Gardenia Montero ISO Defendant DMVs' Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
 10/10/2025	Updated -- Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension changed from to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Coninuance of Motion to Compel and Demurrer to to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
 10/10/2025	Updated -- Declaration of Plaintiff Ryan Levihn-Coon ISO Plaintiff's Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One) [CRS #: 427405358319]: Name Extension changed from of Plaintiff Ryan Levihn-Coon ISO Plaintiff's Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One) to of Plaintiff Ryan Levihn-Coon ISO Plaintiff's Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One) [CRS #: 427405358319]
@@ -1044,56 +1046,54 @@ REGISTER OF ACTIONS
 10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 427405358319]: Name Extension: [CRS #: 427405358319]
 10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [[CRS #: 427405358319]]: Name Extension: [[CRS #: 427405358319]]
 10/10/2025	Updated -- Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One) [[CRS #: 427405358319]]: Name Extension changed from to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One) to to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One) [[CRS #: 427405358319]]
-10/10/2025	Updated -- Opposition to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action [CRS #: 389052734363]: Name Extension changed from to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action, Memorandum of Points and Authorities to to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action [CRS #: 389052734363]
-10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 389052734363]: Name Extension: [CRS #: 389052734363]
-10/10/2025	Updated -- Defendant Jan's Towing, Inc.'s Joinder in Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension: blank ; Exact Name: Defendant Jan's Towing, Inc.'s Joinder in Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
-10/10/2025	Updated -- Reply by Plaintiff to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension changed from by Plaintiff to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer to by Plaintiff to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
-10/10/2025	Updated -- Declaration of William Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension changed from of William Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer to of William Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
 10/10/2025	Updated -- Proof of Service (not Summons and Complaint) [CRS #: 389484513832]: Name Extension: [CRS #: 389484513832]
 10/10/2025	Updated -- Declaration of Plaintiff Ryan Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension changed from of Plaintiff Ryan Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer to of Plaintiff Ryan Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
+10/10/2025	Updated -- Declaration of William Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension changed from of William Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer to of William Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
+10/10/2025	Updated -- Reply by Plaintiff to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension changed from by Plaintiff to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer to by Plaintiff to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
+10/10/2025	Updated -- Defendant Jan's Towing, Inc.'s Joinder in Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]: Name Extension: blank ; Exact Name: Defendant Jan's Towing, Inc.'s Joinder in Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer [CRS #: 389484513832]
 10/9/2025	Objection DEFENDANTS STEVEN GORDON AND DEPARTMENT OF MOTOR VEHICLES OBJECTION TO PLAINTIFF'S OPPOSITION TO DEMURRER; OR IN THE ALTERNATIVE REPLY TO PLAINTIFF'S OPPOSITION; Filed by: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 10/7/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 10/7/2025	Declaration of Plaintiff Ryan Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
 10/7/2025	Declaration of William Levihn-Coon ISO Reply to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
 10/7/2025	Reply by Plaintiff to Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
 10/7/2025	Joinder IN OPPOSITION TO PLAINTIFF'S MOTION FOR ORDERS GRANTING SUBSTITUTION OF PLAINTIFF AND CONTINUANCE OF MOTION TO COMPEL AND DEMURRER; Filed by: Jan's Towing, Inc. (Defendant)
-10/3/2025	Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One); Filed by: Ryan Levihn-Coon (Plaintiff)
-10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
-10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
-10/3/2025	Declaration of William Levihncoon ISO Plaintiff's Opposition to Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One); Filed by: Ryan Levihn-Coon (Plaintiff)
-10/3/2025	Declaration of Plaintiff Ryan Levihn-Coon ISO Plaintiff's Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One); Filed by: Ryan Levihn-Coon (Plaintiff)
-10/3/2025	Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Coninuance of Motion to Compel and Demurrer; Filed by: California Department of Motor Vehicles (Defendant)
-10/3/2025	Declaration of G. Montero ISO DMVs' Opp. to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer; Filed by: California Department of Motor Vehicles (Defendant)
-10/3/2025	Opposition to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action, Memorandum of Points and Authorities; Filed by: Ryan Levihn-Coon (Plaintiff)
-10/3/2025	Declaration of Plaintiff Ryan Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
-10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: California Department of Motor Vehicles (Defendant)
-10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
 10/3/2025	Declaration of William Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
+10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
+10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: California Department of Motor Vehicles (Defendant)
+10/3/2025	Declaration of Plaintiff Ryan Levihncoon ISO Plaintiff's Opposition to DMV Defendants' Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
+10/3/2025	Opposition to Defendants Steven Gordon and California Department of Motor Vehicles Demurrer to the Eleventh and Twelfth Causes of Action, Memorandum of Points and Authorities; Filed by: Ryan Levihn-Coon (Plaintiff)
+10/3/2025	Declaration of G. Montero ISO DMVs' Opp. to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Continuance of Motion to Compel and Demurrer; Filed by: California Department of Motor Vehicles (Defendant)
+10/3/2025	Opposition to Plaintiff's Motion for Orders Granting Substitution of Plaintiff and Coninuance of Motion to Compel and Demurrer; Filed by: California Department of Motor Vehicles (Defendant)
+10/3/2025	Declaration of Plaintiff Ryan Levihn-Coon ISO Plaintiff's Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One); Filed by: Ryan Levihn-Coon (Plaintiff)
+10/3/2025	Declaration of William Levihncoon ISO Plaintiff's Opposition to Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One); Filed by: Ryan Levihn-Coon (Plaintiff)
+10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
+10/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
+10/3/2025	Opposition to Defendant Jan's Towing, Inc's Motion to Compel Further Responses to Requests for Production (Set One); Filed by: Ryan Levihn-Coon (Plaintiff)
 9/18/2025	Notice of Ruling; Filed by: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 9/11/2025	Updated -- Ex Parte Application for Order Shortening Time for Hearing of Plaintiff's Motion for Substitution of Plaintiff and F: Filed By: Ryan Levihn-Coon (Plaintiff); Result: Denied ; Result Date: 09/11/2025
-9/11/2025	Opposition DEFENDANT DEPARTMENT OF MOTOR VEHICLES'S OPPOSITION TO PLAINTIFF'S EX PARTE APPLICATION; Filed by: California Department of Motor Vehicles (Defendant)
 9/11/2025	Hearing on Motion to Compel Further Discovery Responses [8319] scheduled for 10/16/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
+9/11/2025	Opposition DEFENDANT DEPARTMENT OF MOTOR VEHICLES'S OPPOSITION TO PLAINTIFF'S EX PARTE APPLICATION; Filed by: California Department of Motor Vehicles (Defendant)
 9/11/2025	Minute Order (Hearing on Ex Parte Application for Order Shortening Time for...)
 9/11/2025	Hearing on Ex Parte Application for Order Shortening Time for Hearing of Plaintiff's Motion for Substitution of Plaintiff scheduled for 09/11/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 updated: Result Date to 09/11/2025; Result Type to Held - Motion Denied
 9/11/2025	Hearing on Motion to Compel Further Discovery Responses [8319] scheduled for 10/02/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Held - Continued was rescheduled to 10/16/2025 08:30 AM
 9/11/2025	Hearing on Demurrer - without Motion to Strike by Defendants Steven Gordon and California Department of Motor Vehicles' to Plaintiff's Complaint [4363] scheduled for 10/02/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Held - Continued was rescheduled to 10/16/2025 08:30 AM
 9/10/2025	Hearing on Ex Parte Application for Order Shortening Time for Hearing of Plaintiff's Motion for Substitution of Plaintiff scheduled for 09/11/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 9/10/2025	Hearing on Motion for Order Granting Substitution of Plaintiff scheduled for 10/13/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Not Held - Vacated by Court on 09/10/2025
-9/9/2025	Motion for Order Granting: 1) Substitution of Plaintiff; and 2) Brief Continuances of Hearings of Defendants; Jan's Towing, Inc's Motion to Compel and Steven Gordon, et al's Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
-9/9/2025	Declaration of William Levihn-Coon ISO Orders Granting Substitution & Continuances; Filed by: Ryan Levihn-Coon (Plaintiff)
-9/9/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
-9/9/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
-9/9/2025	Declaration of Plaintiff Ryan Levihn-Coon ISO Orders Granting Substitution & continuance; Filed by: Ryan Levihn-Coon (Plaintiff)
 9/9/2025	Ex Parte Application for Order Shortening Time for Hearing of Plaintiff's Motion for Substitution of Plaintiff and F; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 9/9/2025	Declaration in Support of Ex Parte Application; Filed by: Ryan Levihn-Coon (Plaintiff)
 9/9/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
 9/9/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
+9/9/2025	Declaration of Plaintiff Ryan Levihn-Coon ISO Orders Granting Substitution & continuance; Filed by: Ryan Levihn-Coon (Plaintiff)
+9/9/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
+9/9/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
+9/9/2025	Declaration of William Levihn-Coon ISO Orders Granting Substitution & Continuances; Filed by: Ryan Levihn-Coon (Plaintiff)
+9/9/2025	Motion for Order Granting: 1) Substitution of Plaintiff; and 2) Brief Continuances of Hearings of Defendants; Jan's Towing, Inc's Motion to Compel and Steven Gordon, et al's Demurrer; Filed by: Ryan Levihn-Coon (Plaintiff)
 9/9/2025	Hearing on Motion for Order Granting Substitution and Continuance scheduled for 10/16/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 9/3/2025	Notice of Lodging of Declaration of William Levihn-Coon; Filed by: Ryan Levihn-Coon (Plaintiff)
+9/3/2025	Notice of Lodging of Declaration of Ryan Levihn-Coon - August 30, 2025; Filed by: Ryan Levihn-Coon (Plaintiff)
 9/3/2025	Notice of Lodging of Declaration of William Levihn-Coon - September 3, 2025; Filed by: Ryan Levihn-Coon (Plaintiff)
 9/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant)
 9/3/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); California Department of Motor Vehicles (Defendant)
-9/3/2025	Notice of Lodging of Declaration of Ryan Levihn-Coon - August 30, 2025; Filed by: Ryan Levihn-Coon (Plaintiff)
 9/3/2025	Hearing on Motion to Compel Further Discovery Responses [8319] scheduled for 10/02/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 9/3/2025	Minute Order (Hearing on Motion to Compel Further Discovery Responses [8319])
 9/3/2025	Hearing on Motion to Compel Further Discovery Responses [8319] scheduled for 09/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Held - Continued was rescheduled to 10/02/2025 08:30 AM
@@ -1104,9 +1104,9 @@ REGISTER OF ACTIONS
 8/29/2025	Certificate of Mailing for (Hearing on Ex Parte Application FOR ORDER CONTINUING HEARING ...) of 08/29/2025; Filed by: Clerk
 8/29/2025	Minute Order (Hearing on Ex Parte Application FOR ORDER CONTINUING HEARING ...)
 8/29/2025	Hearing on Ex Parte Application FOR ORDER CONTINUING HEARING ON DEFENDANT JAN?S TOWING, INC.?S MOTION TO COMPEL FURTHER RESPONSES scheduled for 08/29/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 updated: Result Date to 08/29/2025; Result Type to Held
-8/27/2025	Updated -- Demurrer by Defendants Steven Gordon and California Department of Motor Vehicles' to Plaintiff's Complaint [CRS #: 389052734363]: Exact Name: Demurrer by Defendants Steven Gordon and California Department of Motor Vehicles' to Plaintiff's Complaint [CRS #: 389052734363]
 8/27/2025	Updated -- Request for Judicial Notice [CRS #: 389052734363]: Name Extension: [CRS #: 389052734363]
 8/27/2025	Updated -- Declaration of Gardenia Montero ISO Defendants Steven Gordon and California Department of Motor Vehicles' Demurrer [CRS #: 389052734363]: Name Extension changed from OF GARDENIA MONTERO IN SUPPORT OF DEMURRER to of Gardenia Montero ISO Defendants Steven Gordon and California Department of Motor Vehicles' Demurrer [CRS #: 389052734363]
+8/27/2025	Updated -- Demurrer by Defendants Steven Gordon and California Department of Motor Vehicles' to Plaintiff's Complaint [CRS #: 389052734363]: Exact Name: Demurrer by Defendants Steven Gordon and California Department of Motor Vehicles' to Plaintiff's Complaint [CRS #: 389052734363]
 8/27/2025	Updated -- Defendants Steven Gordon and California Department of Motor Vehicles Amended Notice of Demurrer Hearing [CRS #: 389052734363]: Name Extension: blank ; Exact Name: Defendants Steven Gordon and California Department of Motor Vehicles Amended Notice of Demurrer Hearing [CRS #: 389052734363]
 8/27/2025	Hearing on Ex Parte Application FOR ORDER CONTINUING HEARING ON DEFENDANT JAN?S TOWING, INC.?S MOTION TO COMPEL FURTHER RESPONSES scheduled for 08/29/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 8/27/2025	Declaration William Levihn-Coon; Filed by: Ryan Levihn-Coon (Plaintiff)
@@ -1145,24 +1145,24 @@ REGISTER OF ACTIONS
 5/30/2025	Request for Entry of Default / Judgment; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant)
 5/30/2025	; Default not entered as to Steven Gordon; On the Complaint filed by Ryan Levihn-Coon on 04/29/2024
 5/29/2025	Updated -- Request for Entry of Default / Judgment: Filed By: Ryan Levihn-Coon (Plaintiff); Result: Not Entered ; Result Date: 05/29/2025
-5/29/2025	Updated -- Notice of Rejection Default/Clerk's Judgment: Status Date changed from 05/29/2025 to 05/29/2025
 5/29/2025	Notice of Rejection Default/Clerk's Judgment; Filed by: Clerk
-5/28/2025	Order to Show Cause Re: Why Sanctions in the Amount of $350 Should not be Imposed on Plaintiff for Failure to Serve the Case scheduled for 07/31/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
-5/28/2025	Order to Show Cause Re: Entry of Default scheduled for 07/31/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
+5/29/2025	Updated -- Notice of Rejection Default/Clerk's Judgment: Status Date changed from 05/29/2025 to 05/29/2025
 5/28/2025	Case Management Conference scheduled for 07/31/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
-5/28/2025	Request for Entry of Default / Judgment; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant)
+5/28/2025	Order to Show Cause Re: Entry of Default scheduled for 07/31/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
+5/28/2025	Order to Show Cause Re: Why Sanctions in the Amount of $350 Should not be Imposed on Plaintiff for Failure to Serve the Case scheduled for 07/31/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 5/28/2025	; Default not entered as to Steven Gordon; On the Complaint filed by Ryan Levihn-Coon on 04/29/2024
-5/28/2025	Certificate of Mailing for (Status Conference Re Status of Defendants California Departm...) of 05/28/2025; Filed by: Clerk
+5/28/2025	Request for Entry of Default / Judgment; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant)
 5/28/2025	Minute Order (Status Conference Re Status of Defendants California Departm...)
+5/28/2025	Certificate of Mailing for (Status Conference Re Status of Defendants California Departm...) of 05/28/2025; Filed by: Clerk
 5/28/2025	Status Conference Re Status of Defendants California Department of Motor Vehicles and Steven Gordon in his official capacity as director of the California Department of Motor vehicles scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 updated: Result Date to 05/28/2025; Result Type to Held
-5/28/2025	Case Management Conference scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Held - Continued was rescheduled to 07/31/2025 08:30 AM
 5/28/2025	Order to Show Cause Re: Entry of Default OR Receipt of Revised Stipulation and Order Re Status of Defendants California Department of Motor Vehicles and Steven Gordon scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 updated: Result Date to 05/28/2025; Result Type to Held
+5/28/2025	Case Management Conference scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Held - Continued was rescheduled to 07/31/2025 08:30 AM
 5/21/2025	Updated -- Request for Dismissal ***With prejudice*** Ritter Lien Sales, lnc.: Name Extension: ***With prejudice*** Ritter Lien Sales, lnc. ; As To Parties changed from DOES 1-50 (Defendant), California Department of Motor Vehicles (Defendant), Steven Gordon (Defendant), Jan's Towing, Inc. (Defendant), Ryan Levihn-Coon (Plaintiff), Ritter Lien Sales, Inc. (Defendant) to Ritter Lien Sales, Inc. (Defendant)
 5/21/2025	Updated -- John Harrold (Attorney): Organization Name changed from LAW OFFICES OF HARROLD & HARROLD to Law Offices of Harrold & Harrold
 5/21/2025	Address for John Harrold (Attorney) updated
 2/28/2025	Case Management Conference scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
-2/28/2025	Order to Show Cause Re: Entry of Default OR Receipt of Revised Stipulation and Order Re Status of Defendants California Department of Motor Vehicles and Steven Gordon scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 2/28/2025	Status Conference Re Status of Defendants California Department of Motor Vehicles and Steven Gordon in his official capacity as director of the California Department of Motor vehicles scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
+2/28/2025	Order to Show Cause Re: Entry of Default OR Receipt of Revised Stipulation and Order Re Status of Defendants California Department of Motor Vehicles and Steven Gordon scheduled for 05/28/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 2/28/2025	Pursuant to oral stipulation, Status Conference Re Status of Defendants California Department of Motor Vehicles and Steven Gordon in his official capacity as director of the California Department of Motor vehicles scheduled for 02/27/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Held - Continued was rescheduled to 05/28/2025 08:30 AM
 2/27/2025	Minute Order (Status Conference Re Status of Defendants California Departme...)
 2/27/2025	Minute Order (Nunc Pro Tunc Order;)
@@ -1177,8 +1177,8 @@ REGISTER OF ACTIONS
 2/13/2025	Due to Clerical Error, Case Management Conference scheduled for 02/24/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Not Held - Clerical Error was rescheduled to 02/27/2025 08:30 AM
 1/15/2025	RETURNED MAIL _Ryan Levihn-Coon; Filed by: Clerk; As to: Ryan Levihn-Coon (Plaintiff); Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc. (Defendant) et al.
 1/11/2025	Hearing on Motion to Compel Discovery (not "Further Discovery") scheduled for 02/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Not Held - Vacated by Court on 01/11/2025
-1/7/2025	Motion to Compel Plaintiff Ryan Levihn-Coon's Verified Responses to Demand for Production of Documents, set one and Production of Documents, Request for Attorney's Fees, Expenses and Sanctions in the amount of $1,060 [CRS #: 427405358319]; Filed by: Jan's Towing, Inc. (Defendant); As to: Ryan Levihn-Coon (Plaintiff)
 1/7/2025	Motion re: VERIFIED RESPONSES TO FORM INTERROGATORIES; Filed by: Jan's Towing, Inc. (Defendant); As to: Ryan Levihn-Coon (Plaintiff)
+1/7/2025	Motion to Compel Plaintiff Ryan Levihn-Coon's Verified Responses to Demand for Production of Documents, set one and Production of Documents, Request for Attorney's Fees, Expenses and Sanctions in the amount of $1,060 [CRS #: 427405358319]; Filed by: Jan's Towing, Inc. (Defendant); As to: Ryan Levihn-Coon (Plaintiff)
 1/7/2025	Hearing on Motion to Compel Further Discovery Responses scheduled for 09/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 1/7/2025	Hearing on Motion to Compel Discovery (not "Further Discovery") scheduled for 02/24/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 30
 1/2/2025	Case reassigned to Stanley Mosk Courthouse in Department 30 - Hon. Dean J. Kitchenseffective 01/02/2025; Reason: Inventory Transfer
@@ -1191,10 +1191,10 @@ REGISTER OF ACTIONS
 12/10/2024	Order to Show Cause Re: Proof of Service as to defendant California Department of Motor Vehicles scheduled for 12/10/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 30 updated: Result Date to 12/10/2024; Result Type to Held
 12/10/2024	Order to Show Cause Re: Sanctions Against Plaintiff for Failure to Appear on 09/26/2024 scheduled for 12/10/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 30 updated: Result Date to 12/10/2024; Result Type to Held
 11/27/2024	Request for Dismissal; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Ryan Levihn-Coon (Plaintiff); Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc. (Defendant) et al.
-11/27/2024	On the Complaint filed by Ryan Levihn-Coon on 04/29/2024, entered Request for Dismissal with prejudice filed by Ryan Levihn-Coon as to Ritter Lien Sales, Inc.
-11/27/2024	Request for Dismissal; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Ryan Levihn-Coon (Plaintiff); Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc. (Defendant) et al.
 11/27/2024	Updated -- Request for Dismissal: Result Date: 11/27/2024
 11/27/2024	Updated -- Request for Dismissal: Filed By: Ryan Levihn-Coon (Plaintiff); Result: Entered
+11/27/2024	On the Complaint filed by Ryan Levihn-Coon on 04/29/2024, entered Request for Dismissal with prejudice filed by Ryan Levihn-Coon as to Ritter Lien Sales, Inc.
+11/27/2024	Request for Dismissal; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Ryan Levihn-Coon (Plaintiff); Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc. (Defendant) et al.
 11/27/2024	ERROR with ROA message definition 129 with DismissalParty:3616996 resulted in empty message
 11/22/2024	Address for Ryan Levihn-Coon (Plaintiff) updated
 11/19/2024	Notice of Change of Address or Other Contact Information; Filed by: Ryan Levihn-Coon (Plaintiff)
@@ -1203,33 +1203,33 @@ REGISTER OF ACTIONS
 9/26/2024	Order to Show Cause Re: Sanctions Against Plaintiff for Failure to Appear on 09/26/2024 scheduled for 12/10/2024 at 09:00 AM in Stanley Mosk Courthouse at Department 30
 9/26/2024	Minute Order (Case Management Conference)
 9/26/2024	On the Court's own motion, Case Management Conference scheduled for 09/26/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 30 Not Held - Continued - Court's Motion was rescheduled to 12/10/2024 09:00 AM
-9/26/2024	Certificate of Mailing for (Nunc Pro Tunc Order) of 09/26/2024; Filed by: Clerk
 9/26/2024	Minute Order (Nunc Pro Tunc Order)
+9/26/2024	Certificate of Mailing for (Nunc Pro Tunc Order) of 09/26/2024; Filed by: Clerk
 9/26/2024	Due to Clerical Error, Case Management Conference scheduled for 12/10/2024 at 09:00 AM in Stanley Mosk Courthouse at Department 30 Not Held - Clerical Error was rescheduled to 12/10/2024 08:30 AM
 9/26/2024	Due to Clerical Error, Order to Show Cause Re: Proof of Service as to defendant California Department of Motor Vehicles scheduled for 12/10/2024 at 09:00 AM in Stanley Mosk Courthouse at Department 30 Not Held - Clerical Error was rescheduled to 12/10/2024 08:30 AM
 9/26/2024	Due to Clerical Error, Order to Show Cause Re: Sanctions Against Plaintiff for Failure to Appear on 09/26/2024 scheduled for 12/10/2024 at 09:00 AM in Stanley Mosk Courthouse at Department 30 Not Held - Clerical Error was rescheduled to 12/10/2024 08:30 AM
 9/13/2024	Stipulation and Order TO EXTEND TIME FOR RITTER LIEN SALES, INC. TO RESPOND TO COMPLAINT;; Signed and Filed by: Ritter Lien Sales, Inc. (Defendant); As to: Ryan Levihn-Coon (Plaintiff)
-9/12/2024	Answer; Filed by: Jan's Towing, Inc. (Defendant); As to: Ryan Levihn-Coon (Plaintiff)
 9/12/2024	Case Management Statement; Filed by: Jan's Towing, Inc. (Defendant)
+9/12/2024	Answer; Filed by: Jan's Towing, Inc. (Defendant); As to: Ryan Levihn-Coon (Plaintiff)
 9/12/2024	Updated -- Stipulation and Order TO EXTEND TIME FOR RITTER LIEN SALES, INC. TO RESPOND TO COMPLAINT;: Filed By: Ritter Lien Sales, Inc. (Defendant); Result: Granted ; Result Date: 09/12/2024
-9/11/2024	Case Management Statement; Filed by: Ryan Levihn-Coon (Plaintiff)
 9/11/2024	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc. (Defendant); Steven Gordon (Defendant) et al.
+9/11/2024	Case Management Statement; Filed by: Ryan Levihn-Coon (Plaintiff)
 8/21/2024	Proof of Personal Service; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Ritter Lien Sales, Inc. (Defendant); Service Date: 07/31/2024; Service Cost: 50.00; Service Cost Waived: Yes
 8/21/2024	Proof of Personal Service; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Service Date: 08/08/2024; Service Cost: 50.00; Service Cost Waived: Yes
 8/19/2024	Proof of Personal Service; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Steven Gordon (Defendant); Service Date: 07/19/2024; Service Cost: 50.00; Service Cost Waived: Yes
 8/19/2024	Consent to Electronic Service and Notice of Electronic Service Address; Filed by: Ryan Levihn-Coon (Plaintiff)
-4/30/2024	Summons on Complaint; Issued and Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc. (Defendant); Steven Gordon (Defendant) et al.
-4/30/2024	Case Management Conference scheduled for 12/10/2024 at 09:00 AM in Stanley Mosk Courthouse at Department 30
+4/30/2024	Case Management Conference scheduled for 09/26/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 30
+4/30/2024	Notice of Case Management Conference; Filed by: Clerk
 4/30/2024	Updated -- Ritter Lien Sales, Inc. (Defendant): Organization Name changed from Ritter Lien Sales, Inc., a California corporation to Ritter Lien Sales, Inc.
 4/30/2024	Updated -- Steven Gordon (Defendant): First Name: Steven; Last Name: Gordon; Organization Name: blank
 4/30/2024	Updated -- California Department of Motor Vehicles (Defendant): Organization Name changed from State of California Department of Motor Vehicles to California Department of Motor Vehicles
-4/30/2024	Case Management Conference scheduled for 09/26/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 30
-4/30/2024	Notice of Case Management Conference; Filed by: Clerk
-4/29/2024	Order on Court Fee Waiver (Superior Court); Signed and Filed by: Clerk; As to: Ryan Levihn-Coon (Plaintiff)
-4/29/2024	Notice of Case Assignment - Unlimited Civil Case; Filed by: Clerk
-4/29/2024	Alternate Dispute Resolution Packet; Filed by: Clerk
-4/29/2024	Civil Case Cover Sheet; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc., a California corporation (Defendant); Steven Gordon, in his capacity as Director of State of California Department of Motor Vehicles (Defendant) et al.
+4/30/2024	Summons on Complaint; Issued and Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc. (Defendant); Steven Gordon (Defendant) et al.
+4/30/2024	Case Management Conference scheduled for 12/10/2024 at 09:00 AM in Stanley Mosk Courthouse at Department 30
 4/29/2024	Complaint; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc., a California corporation (Defendant); Steven Gordon, in his capacity as Director of State of California Department of Motor Vehicles (Defendant) et al.
+4/29/2024	Civil Case Cover Sheet; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Jan's Towing, Inc. (Defendant); Ritter Lien Sales, Inc., a California corporation (Defendant); Steven Gordon, in his capacity as Director of State of California Department of Motor Vehicles (Defendant) et al.
+4/29/2024	Alternate Dispute Resolution Packet; Filed by: Clerk
+4/29/2024	Notice of Case Assignment - Unlimited Civil Case; Filed by: Clerk
+4/29/2024	Order on Court Fee Waiver (Superior Court); Signed and Filed by: Clerk; As to: Ryan Levihn-Coon (Plaintiff)
 4/29/2024	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 04/29/2024 to 04/29/2024
 4/29/2024	Case assigned to Hon. Barbara M. Scheper in Department 30 Stanley Mosk Courthouse
 Back To Top
