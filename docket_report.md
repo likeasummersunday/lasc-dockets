@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Monday, June 29, 2026 at 02:18 PM (Central, approx)
+**Generated:** Tuesday, June 30, 2026 at 01:23 PM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -1240,97 +1240,26 @@ Back To Top
 ## Tesoro Case — 25STCV06166
 
 ```
-CASE INFORMATION:	25STCV06166
-Case Title:	LENA GIRON, ET AL. VS AMCAL TESORO DEL VALLE FUND, LP, A CALIFORNIA LIMITED PARTNERSHIP, ET AL.
-Filing Courthouse:	Stanley Mosk Courthouse
-Filing Date:	3/5/2025
-Status:	Pending
-FUTURE HEARINGS
-8/11/2026	08:30	Department 617	111 North Hill Street, Los Angeles, CA 90012	Case Management Conference
-8/11/2026	08:30	Department 617	111 North Hill Street, Los Angeles, CA 90012	Order to Show Cause Re: Failure to File Proof of Service
-PARTY INFORMATION
-ACOSTA JASON	Defendant
-AMCAL MULTI-HOUSING INC.	Defendant
-AMCAL TESORO DEL VALLE FUND LP	Defendant
-ECHEVERRIA WILLIAM ALEXANDER	Defendant
-FOUNDATION FOR AFFORDABLE HOUSING V INC.	Defendant
-FPI MANAGEMENT INC.	Defendant
-GIRON LENA	Plaintiff
-LEVIHN-COON RYAN	Plaintiff
-MARTINEZ RICHARD MICHAEL	Defendant
-MENDEZ RICARDO	Defendant
-RICKY'S TOLEDO TOWING SERVICE INC.	Defendant
-VAZ PERCIVAL JOSEPH	Defendant
-WALDRON TOMMY	Defendant
-DOCUMENTS FILED
-5/6/2026	Certificate of Mailing for Notice of Case Reassignment and Order for Plaintiff to Give Notice	Filed by Clerk
-5/6/2026	Notice of Case Reassignment and Order for Plaintiff to Give Notice	Filed by Clerk
-3/19/2026	Certificate of Mailing for (Court Order) of 03/19/2026	Filed by Clerk
-3/19/2026	Clerks Certificate of Service By Electronic Service	Filed by Clerk
-3/19/2026	Minute Order (Court Order)	Filed by Clerk
-11/13/2025	Certificate of Mailing for (Court Order) of 11/13/2025	Filed by Clerk
-11/13/2025	Minute Order (Court Order)	Filed by Clerk
-3/13/2025	Certificate of Mailing for (Court Order Re Reassignment to an Independent Calendar Court) of 03/13/2025	Filed by Clerk
-3/13/2025	Minute Order (Court Order Re Reassignment to an Independent Calendar Court)	Filed by Clerk
-3/13/2025	Notice of Case Management Conference	Filed by Clerk
-3/13/2025	Order to Show Cause Failure to File Proof of Service	Filed by Clerk
-3/10/2025	Certificate of Mailing for (Court Order Re: Non-Complex Determination) of 03/10/2025	Filed by Clerk
-3/10/2025	Minute Order (Court Order Re: Non-Complex Determination)	Filed by Clerk
-3/10/2025	Order on Court Fee Waiver (Superior Court)	Filed by Clerk
-3/10/2025	Order on Court Fee Waiver (Superior Court)	Filed by Clerk
-3/5/2025	Alternative Dispute Resolution Packet	Filed by Clerk
-3/5/2025	Civil Case Cover Sheet	Filed by Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff)
-3/5/2025	Complaint for Damages, Declaratory Relief, Injunctive Relief and Appointment of Receivership	Filed by Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff)
-3/5/2025	Summons on Complaint	Filed by Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff)
-PROCEEDINGS HELD
-4/17/2026 08:30 AM	Department 68	Case Management Conference	Not Held - Advanced and Continued - by Court
-4/17/2026 08:30 AM	Department 68	Order to Show Cause Re: Failure to File Proof of Service	Not Held - Advanced and Continued - by Court
-3/19/2026 10:58 AM	Department 68	Court Order
-12/3/2025 08:30 AM	Department 68	Case Management Conference	Not Held - Advanced and Continued - by Court
-12/3/2025 08:30 AM	Department 68	Order to Show Cause Re: Failure to File Proof of Service	Not Held - Advanced and Continued - by Court
-11/13/2025 4:00 PM	Department 68	Court Order
-3/13/2025 09:55 AM	Department 1	Court Order
-3/10/2025 3:52 PM	Department 7	Court Order
-REGISTER OF ACTIONS
-5/11/2026	Case reassigned to Stanley Mosk Courthouse in Department 617 - Hon. Jeffery D. McFarlandeffective 05/11/2026; Reason: Inventory Transfer
-5/6/2026	Certificate of Mailing for Notice of Case Reassignment and Order for Plaintiff to Give Notice; Filed by: Clerk
-5/6/2026	Notice of Case Reassignment and Order for Plaintiff to Give Notice; Filed by: Clerk
-3/19/2026	Order to Show Cause Re: Failure to File Proof of Service scheduled for 08/11/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 68
-3/19/2026	Case Management Conference scheduled for 08/11/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 68
-3/19/2026	Certificate of Mailing for (Court Order) of 03/19/2026; Filed by: Clerk
-3/19/2026	Minute Order (Court Order)
-3/19/2026	Clerks Certificate of Service By Electronic Service; Filed by: Clerk; As to: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff)
-3/19/2026	On the Court's own motion, Case Management Conference scheduled for 04/17/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 68 Not Held - Advanced and Continued - by Court was rescheduled to 08/11/2026 08:30 AM
-3/19/2026	On the Court's own motion, Order to Show Cause Re: Failure to File Proof of Service scheduled for 04/17/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 68 Not Held - Advanced and Continued - by Court was rescheduled to 08/11/2026 08:30 AM
-11/13/2025	Case Management Conference scheduled for 04/17/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 68
-11/13/2025	Order to Show Cause Re: Failure to File Proof of Service scheduled for 04/17/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 68
-11/13/2025	Minute Order (Court Order)
-11/13/2025	Certificate of Mailing for (Court Order) of 11/13/2025; Filed by: Clerk
-11/13/2025	On the Court's own motion, Case Management Conference scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68 Not Held - Advanced and Continued - by Court was rescheduled to 04/17/2026 08:30 AM
-11/13/2025	On the Court's own motion, Order to Show Cause Re: Failure to File Proof of Service scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68 Not Held - Advanced and Continued - by Court was rescheduled to 04/17/2026 08:30 AM
-3/13/2025	Order to Show Cause Failure to File Proof of Service; Filed by: Clerk
-3/13/2025	Notice of Case Management Conference; Filed by: Clerk
-3/13/2025	Order to Show Cause Re: Failure to File Proof of Service scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68
-3/13/2025	Case reassigned to Stanley Mosk Courthouse in Department 68 - Hon. Stephen P. Pfahler; Reason: Other
-3/13/2025	Case Management Conference scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68
-3/13/2025	Certificate of Mailing for (Court Order Re Reassignment to an Independent Calendar Court) of 03/13/2025; Filed by: Clerk
-3/13/2025	Minute Order (Court Order Re Reassignment to an Independent Calendar Court)
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Result: Granted ; Result Date: 03/10/2025
-3/10/2025	The case is placed in special status of: Deemed Non--Complex
-3/10/2025	Case reassigned to Stanley Mosk Courthouse in Department 1 - Hon. Lawrence P. Riff; Reason: Deemed Non-Complex
-3/10/2025	Certificate of Mailing for (Court Order Re: Non-Complex Determination) of 03/10/2025; Filed by: Clerk
-3/10/2025	Minute Order (Court Order Re: Non-Complex Determination)
-3/10/2025	The case is removed from the special status of: Provisionally Complex ? Case Type
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/06/2025 to 03/10/2025 ; Status changed from To Be Processed to Signed and Filed
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/06/2025 to 03/10/2025 ; Status changed from To Be Processed to Signed and Filed
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Result: Granted ; Result Date: 03/10/2025
-3/5/2025	Complaint for Damages, Declaratory Relief, Injunctive Relief and Appointment of Receivership; Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
-3/5/2025	Civil Case Cover Sheet; Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
-3/5/2025	Summons on Complaint; Issued and Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
-3/5/2025	Alternative Dispute Resolution Packet; Filed by: Clerk
-3/5/2025	The case is placed in special status of: Provisionally Complex ? Case Type
-3/5/2025	Case assigned in Department 7 Spring Street Courthouse
-Back To Top
+CASE NUMBER
+FILING COURTHOUSE :
+Alhambra Courthouse
+Beverly Hills Courthouse
+Burbank Courthouse
+Chatsworth Courthouse
+Compton Courthouse
+Glendale Courthouse
+Governor George Deukmejian Courthouse
+Inglewood Courthouse
+Michael Antonovich Antelope Valley Courthouse
+Norwalk Courthouse
+Pasadena Courthouse
+Pomona Courthouse South
+Santa Monica Courthouse
+Spring Street Courthouse
+Stanley Mosk Courthouse
+Torrance Courthouse
+Van Nuys Courthouse East
+West Covina Courthouse
 ```
 
 ---
