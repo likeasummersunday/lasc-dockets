@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Wednesday, July 08, 2026 at 09:08 AM (Central, approx)
+**Generated:** Thursday, July 09, 2026 at 10:10 AM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -172,6 +172,7 @@ DOCUMENTS FILED
 3/29/2024	Order on Court Fee Waiver (Superior Court)	Filed by Clerk
 3/29/2024	Summons on Complaint	Filed by Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 PROCEEDINGS HELD
+7/8/2026 08:30 AM	Department 36	Final Status Conference	Not Held - Vacated by Court
 3/18/2026 08:30 AM	Department 36	Order to Show Cause Re:	Held
 3/18/2026 08:30 AM	Department 36	Trial Setting Conference	Held
 3/4/2026 08:30 AM	Department 36	Order to Show Cause Re:	Held - Continued
