@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Friday, July 10, 2026 at 09:27 AM (Central, approx)
+**Generated:** Monday, July 13, 2026 at 09:35 AM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -663,10 +663,10 @@ REGISTER OF ACTIONS
 12/5/2024	On the Court's own motion, Case Management Conference scheduled for 12/05/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Held - Continued was rescheduled to 01/27/2025 08:30 AM
 11/22/2024	Address for Ryan Levihn-Coon (Plaintiff) updated
 11/22/2024	Address for Lena Giron (Plaintiff) updated
-11/20/2024	Notice of Change of Address or Other Contact Information; Filed by: Ryan Levihn-Coon (Plaintiff)
 11/20/2024	Notice of Change of Address or Other Contact Information; Filed by: Lena Giron (Plaintiff)
-11/20/2024	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+11/20/2024	Notice of Change of Address or Other Contact Information; Filed by: Ryan Levihn-Coon (Plaintiff)
 11/20/2024	Amended Complaint (1st); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+11/20/2024	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
 11/18/2024	On the Court's own motion, Hearing on Demurrer - with Motion to Strike (CCP 430.10) (7581) scheduled for 11/19/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Rescheduled by Court was rescheduled to 12/05/2024 08:30 AM
 11/18/2024	On the Court's own motion, Case Management Conference scheduled for 11/19/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Rescheduled by Court was rescheduled to 12/05/2024 08:30 AM
 10/21/2024	Case Management Statement; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant)
@@ -675,70 +675,70 @@ REGISTER OF ACTIONS
 10/9/2024	On the Court's own motion, Case Management Conference scheduled for 11/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Rescheduled by Court was rescheduled to 11/19/2024 08:30 AM
 10/7/2024	Hearing on Demurrer - with Motion to Strike (CCP 430.10) scheduled for 11/19/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 10/7/2024	Updated -- Monique R. Donavan (Attorney): Last Name changed from Linson to Donavan; Organization Name changed from Bremer Whyte Brown & O'Meara LLP to BREMER WHYTE BROWN & OMEARA LLP; Middle Name changed from Rachelle to R.
-10/4/2024	Demurrer - with Motion to Strike (CCP 430.10); Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant)
 10/4/2024	Motion to Strike (not initial pleading); Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant)
+10/4/2024	Demurrer - with Motion to Strike (CCP 430.10); Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant)
 10/2/2024	Updated -- Ex Parte Application DEFENDANTS EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER: Filed By: Scenic Expressions, Inc., a California corporation (Defendant),Mark Andrew Larinto (Defendant),Tyler Vincent Larinto (Defendant); Result: Granted ; Result Date: 10/02/2024
 10/2/2024	Updated -- Ex Parte Application DEFENDANTS AMENDED EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER: Filed By: Scenic Expressions, Inc., a California corporation (Defendant),Tyler Vincent Larinto (Defendant),Mark Andrew Larinto (Defendant); Result: Granted ; Result Date: 10/02/2024
 10/2/2024	Minute Order (Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE F...)
 10/2/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 updated: Result Date to 10/02/2024; Result Type to Held - Motion Granted
 10/2/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 updated: Result Date to 10/02/2024; Result Type to Held - Motion Granted
-10/1/2024	Ex Parte Application DEFENDANTS AMENDED EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 10/1/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
-9/30/2024	Ex Parte Application DEFENDANTS EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
+10/1/2024	Ex Parte Application DEFENDANTS AMENDED EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 9/30/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
+9/30/2024	Ex Parte Application DEFENDANTS EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 9/4/2024	Case Management Conference scheduled for 11/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 9/4/2024	Minute Order (Order to Show Cause Re: why Monetary Sanctions Should not be ...)
 9/4/2024	Order to Show Cause Re: why Monetary Sanctions Should not be Imposed Against the Plaintiff for Failure to Appear pm 08/05/2024 scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 updated: Result Date to 09/04/2024; Result Type to Held
 9/4/2024	Case Management Conference scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Held - Continued was rescheduled to 11/04/2024 08:30 AM
 9/4/2024	Order to Show Cause Re: Status of Related Case scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 updated: Result Date to 09/04/2024; Result Type to Held
-9/3/2024	Case Management Statement; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
-9/3/2024	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
-9/3/2024	Declaration of Plaintiff Lena Giron in Support of Case Management Statement and OSC Re: Failure to Appear; Filed by: Lena Giron (Plaintiff)
 9/3/2024	Declaration of Plaintiff Ryan Levihn-Coon in Support of Case Management Statement and OSC Re: Failure to Appear; Filed by: Ryan Levihn-Coon (Plaintiff)
+9/3/2024	Declaration of Plaintiff Lena Giron in Support of Case Management Statement and OSC Re: Failure to Appear; Filed by: Lena Giron (Plaintiff)
+9/3/2024	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+9/3/2024	Case Management Statement; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 8/30/2024	Proof of Personal Service; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Tyler Vincent Larinto (Defendant); Tyler Vincent Larinto, in his official capacity as manager and employee of Scenic Expressions, Inc. (Defendant); Service Date: 08/21/2024; Service Cost: 50.00; Service Cost Waived: Yes
-8/27/2024	Proof of Personal Service; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Scenic Expressions, Inc., a California corporation (Defendant); Service Date: 08/20/2024; Service Cost: 50.00; Service Cost Waived: Yes
 8/27/2024	Proof of Personal Service; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Mark Andrew Larinto, in his official capacity as co-owner, managing partner and employee of Scenic Expressions, Inc. (Defendant); Service Date: 08/20/2024; Service Cost: 50.00; Service Cost Waived: Yes
+8/27/2024	Proof of Personal Service; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Scenic Expressions, Inc., a California corporation (Defendant); Service Date: 08/20/2024; Service Cost: 50.00; Service Cost Waived: Yes
 8/20/2024	Consent to Electronic Service and Notice of Electronic Service Address; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 8/16/2024	Updated -- Notice of Related Case (Lowest # case 22STCV23266 pending in D-61) (24STCV08032 D-51): Name Extension changed from (Lowest # case 22STCV23266 pending in D-61) to (Lowest # case 22STCV23266 pending in D-61) (24STCV08032 D-51)
 8/16/2024	Minute Order (Court Order Re: Notice of Related Case)
 8/16/2024	Certificate of Mailing for (Court Order Re: Notice of Related Case) of 08/16/2024; Filed by: Clerk
 8/16/2024	Case numbers 24STCV08032, 24STCV05152 are related; case number 24STCV05152 is the lead case.
 8/5/2024	Updated -- Notice of Related Case (Lowest # case 22STCV23266 pending in D-61): Filed By: Ryan Levihn-Coon (Plaintiff); Result: Reviewed - No Action Required ; Name Extension: (Lowest # case 22STCV23266 pending in D-61) ; Result Date: 08/05/2024
-8/5/2024	Order to Show Cause Re: why Monetary Sanctions Should not be Imposed Against the Plaintiff for Failure to Appear pm 08/05/2024 scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
-8/5/2024	Case Management Conference scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 8/5/2024	Order to Show Cause Re: Status of Related Case scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
-8/5/2024	Minute Order (Case Management Conference; Order to Show Cause Re: Status of...)
+8/5/2024	Case Management Conference scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
+8/5/2024	Order to Show Cause Re: why Monetary Sanctions Should not be Imposed Against the Plaintiff for Failure to Appear pm 08/05/2024 scheduled for 09/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 8/5/2024	Certificate of Mailing for (Case Management Conference; Order to Show Cause Re: Status of...) of 08/05/2024; Filed by: Clerk
+8/5/2024	Minute Order (Case Management Conference; Order to Show Cause Re: Status of...)
 8/5/2024	On the Court's own motion, Case Management Conference scheduled for 08/05/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Continued - Court's Motion was rescheduled to 09/04/2024 08:30 AM
 8/5/2024	On the Court's own motion, Order to Show Cause Re: Status of Related Case scheduled for 08/05/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Continued - Court's Motion was rescheduled to 09/04/2024 08:30 AM
-8/2/2024	Notice of Related Case; Filed by: Ryan Levihn-Coon (Plaintiff)
-8/2/2024	Case Management Statement; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 8/2/2024	Declaration in Support of Case Management Conference Scheduled for August 5th, 2024; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
-7/2/2024	Case Management Conference scheduled for 08/05/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
+8/2/2024	Case Management Statement; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
+8/2/2024	Notice of Related Case; Filed by: Ryan Levihn-Coon (Plaintiff)
 7/2/2024	Order to Show Cause Re: Status of Related Case scheduled for 08/05/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
-7/2/2024	Minute Order (Court Order Re: Continuance)
+7/2/2024	Case Management Conference scheduled for 08/05/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 7/2/2024	Certificate of Mailing for (Court Order Re: Continuance) of 07/02/2024; Filed by: Clerk
+7/2/2024	Minute Order (Court Order Re: Continuance)
 7/2/2024	Reset - Court Unavailable, Order to Show Cause Re: Status of Related Case scheduled for 07/31/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Continued - Court's Motion was rescheduled to 08/05/2024 08:30 AM
 7/2/2024	Reset - Court Unavailable, Case Management Conference scheduled for 07/31/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Continued - Court's Motion was rescheduled to 08/05/2024 08:30 AM
-7/1/2024	Order to Show Cause Re: Status of Related Case scheduled for 07/31/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 7/1/2024	Case Management Conference scheduled for 07/31/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
+7/1/2024	Order to Show Cause Re: Status of Related Case scheduled for 07/31/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 7/1/2024	Minute Order (Case Management Conference)
 7/1/2024	Case Management Conference scheduled for 07/01/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Held - Continued was rescheduled to 07/31/2024 08:30 AM
-4/15/2024	Minute Order (Court Order Re Notice of Related Case Filed 03/25/24 by Defen...) of 04/15/2024
-4/15/2024	Certificate of Mailing for (Court Order Re Notice of Related Case Filed 03/25/24 by Defen...) of 04/15/2024; Filed by: Clerk
 4/15/2024	The case is placed in special status of: Deemed Not Related
+4/15/2024	Certificate of Mailing for (Court Order Re Notice of Related Case Filed 03/25/24 by Defen...) of 04/15/2024; Filed by: Clerk
+4/15/2024	Minute Order (Court Order Re Notice of Related Case Filed 03/25/24 by Defen...) of 04/15/2024
 3/29/2024	Updated -- Notice of Related Case (22STCV23266 Lowest number case pending in D-61): Filed By: Ryan Levihn-Coon (Plaintiff); Result: Reviewed - No Action Required ; Name Extension: (22STCV23266 Lowest number case pending in D-61) ; Result Date: 03/29/2024
 3/25/2024	Notice of Related Case; Filed by: Ryan Levihn-Coon (Plaintiff)
 3/7/2024	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/06/2024 to 03/07/2024 ; Status changed from TP to Signed and Filed
 3/6/2024	Order on Court Fee Waiver (Superior Court); TP by:
+3/1/2024	Notice of Case Management Conference; Filed by: Clerk
+3/1/2024	Summons on Complaint; Issued and Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+3/1/2024	Case assigned to Hon. Wendy Chang in Department 36 Stanley Mosk Courthouse
 3/1/2024	Order on Court Fee Waiver (Superior Court); Signed and Filed by: Clerk; As to: Lena Giron (Plaintiff)
 3/1/2024	Order on Court Fee Waiver (Superior Court); Signed and Filed by: Clerk; As to: Ryan Levihn-Coon (Plaintiff)
-3/1/2024	Case assigned to Hon. Wendy Chang in Department 36 Stanley Mosk Courthouse
 3/1/2024	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/01/2024 to 03/01/2024
 3/1/2024	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/01/2024 to 03/01/2024
 3/1/2024	Case Management Conference scheduled for 07/01/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
-3/1/2024	Notice of Case Management Conference; Filed by: Clerk
-3/1/2024	Summons on Complaint; Issued and Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
 2/29/2024	Complaint; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
 2/29/2024	Civil Case Cover Sheet; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
 2/29/2024	Alternate Dispute Resolution Packet; Filed by: Clerk
