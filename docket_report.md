@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Thursday, August 06, 2026 at 09:09 AM (Central, approx)
+**Generated:** Friday, August 07, 2026 at 08:03 AM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -18,9 +18,6 @@ Filing Date:	3/29/2024
 Status:	Pending
 Related	24STCV05152	8/16/2024
 FUTURE HEARINGS
-8/6/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Discovery (not "Further Discovery")
-8/6/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Discovery (not "Further Discovery")
-8/6/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion to Compel Discovery (not "Further Discovery")
 8/11/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Case Management Conference
 8/11/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Demurrer - with Motion to Strike (CCP 430.10)
 8/11/2026	08:30	Department 410	111 North Hill Street, Los Angeles, CA 90012	Hearing on Motion for Reconsideration
@@ -194,6 +191,9 @@ DOCUMENTS FILED
 3/29/2024	Order on Court Fee Waiver (Superior Court)	Filed by Clerk
 3/29/2024	Summons on Complaint	Filed by Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 PROCEEDINGS HELD
+8/6/2026 08:30 AM	Department 410	Hearing on Motion to Compel Discovery (not "Further Discovery")
+8/6/2026 08:30 AM	Department 410	Hearing on Motion to Compel Discovery (not "Further Discovery")
+8/6/2026 08:30 AM	Department 410	Hearing on Motion to Compel Discovery (not "Further Discovery")
 7/30/2026 08:30 AM	Department 410	Case Management Conference	Not Held - Rescheduled by Court
 7/30/2026 08:30 AM	Department 410	Hearing on Demurrer - with Motion to Strike (CCP 430.10)	Not Held - Rescheduled by Court
 7/30/2026 08:30 AM	Department 410	Hearing on Motion for Reconsideration	Not Held - Rescheduled by Court
