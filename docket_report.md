@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Thursday, August 13, 2026 at 08:10 AM (Central, approx)
+**Generated:** Friday, August 14, 2026 at 08:05 AM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -304,9 +304,9 @@ REGISTER OF ACTIONS
 4/17/2026	Separate Statement; Filed by: Gregory Toshio Doi, Jr. (Defendant)
 4/17/2026	Motion to Compel Further Discovery Responses; Filed by: Gregory Toshio Doi, Jr. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 4/17/2026	Separate Statement; Filed by: Gregory Toshio Doi, Jr. (Defendant)
-4/17/2026	Motion to Compel Discovery (not Further Discovery) - 1 moving party, 1 motion; Filed by: Gregory Toshio Doi, Jr. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 4/17/2026	Motion to Compel Further Discovery Responses; Filed by: Gregory Toshio Doi, Jr. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 4/17/2026	Separate Statement; Filed by: Gregory Toshio Doi, Jr. (Defendant)
+4/17/2026	Motion to Compel Discovery (not Further Discovery) - 1 moving party, 1 motion; Filed by: Gregory Toshio Doi, Jr. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 4/17/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") scheduled for 08/06/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 4/17/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") scheduled for 08/06/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 4/17/2026	Hearing on Motion to Compel Further Discovery Responses scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 36
@@ -336,8 +336,8 @@ REGISTER OF ACTIONS
 6/3/2025	Certificate of Mailing for (Court Order Re: Continuance) of 06/03/2025; Filed by: Clerk
 6/2/2025	Minute Order (Court Order Vacating the Referral to the Mediation Volunteer ...)
 6/2/2025	Certificate of Mailing for (Court Order Vacating the Referral to the Mediation Volunteer ...) of 06/02/2025; Filed by: Clerk
-5/23/2025	Trial Setting Conference scheduled for 11/17/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 5/23/2025	The case is placed in special status of: Stay - Entire Action/Case
+5/23/2025	Trial Setting Conference scheduled for 11/17/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 5/23/2025	Minute Order (Nunc Pro Tunc Order)
 5/23/2025	Certificate of Mailing for (Nunc Pro Tunc Order) of 05/23/2025; Filed by: Clerk
 5/23/2025	On the Court's own motion, Hearing on Motion for Stay of Proceedings scheduled for 09/25/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Held - Advanced and Heard on 05/22/2025
@@ -434,8 +434,8 @@ REGISTER OF ACTIONS
 1/10/2025	Address for Ryan Levihn-Coon (Plaintiff) updated
 1/10/2025	Address for Lena Giron (Plaintiff) updated
 1/9/2025	Notice of Change of Address or Other Contact Information; Filed by: Ryan Levihn-Coon (Plaintiff)
-1/9/2025	Amended Complaint (1st) (1st); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Gregory Toshio Doi, Jr. (Defendant)
 1/9/2025	Notice of Change of Address or Other Contact Information; Filed by: Lena Giron (Plaintiff)
+1/9/2025	Amended Complaint (1st) (1st); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Gregory Toshio Doi, Jr. (Defendant)
 1/9/2025	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Gregory Toshio Doi, Jr. (Defendant)
 11/26/2024	Request for Judicial Notice; Filed by: Gregory Toshio Doi, Jr. (Defendant)
 11/26/2024	Request for Judicial Notice; Filed by: Gregory Toshio Doi, Jr. (Defendant)
@@ -449,18 +449,18 @@ REGISTER OF ACTIONS
 11/21/2024	Proof of Service (not Summons and Complaint); Filed by: Gregory Toshio Doi, Jr. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 11/21/2024	Minute Order (Hearing on Motion - Other Motion to Recover Costs of Personal...)
 11/21/2024	Hearing on Demurrer - without Motion to Strike scheduled for 05/01/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36
-11/21/2024	Notice of Rejection Default/Clerk's Judgment; Filed by: Clerk
-11/21/2024	Updated -- Notice of Rejection Default/Clerk's Judgment: Status Date changed from 11/21/2024 to 11/21/2024
 11/21/2024	Updated -- Notice of Rejection Default/Clerk's Judgment: Status Date changed from 11/21/2024 to 11/21/2024
 11/21/2024	Notice of Rejection Default/Clerk's Judgment; Filed by: Clerk
+11/21/2024	Notice of Rejection Default/Clerk's Judgment; Filed by: Clerk
+11/21/2024	Updated -- Notice of Rejection Default/Clerk's Judgment: Status Date changed from 11/21/2024 to 11/21/2024
 11/20/2024	Proof of Service (not Summons and Complaint); Filed by: Lena Giron (Cross-Defendant); Ryan Levihn-Coon (Cross-Defendant); As to: Gregory Toshio Doi, Jr. (Cross-Complainant)
 11/19/2024	Demurrer - without Motion to Strike; Filed by: Lena Giron (Cross-Defendant); Ryan Levihn-Coon (Cross-Defendant)
 11/19/2024	Declaration of Plaintiff Lena Giron ISO Demurrer to Defendant Gregory Doi, Jr.'s Cross-Complaint; Filed by: Ryan Levihn-Coon (Cross-Defendant)
 11/19/2024	Declaration of Plaintiff Ryan Levihn-Coon ISO Demurrer to Defendant Gregory Doi, Jr.'s Cross-Complaint; Filed by: Lena Giron (Cross-Defendant)
 11/18/2024	Request for Entry of Default / Judgment; Filed by: Gregory Toshio Doi, Jr. (Cross-Complainant); As to: Ryan Levihn-Coon (Cross-Defendant)
+11/18/2024	Request for Entry of Default / Judgment; Filed by: Gregory Toshio Doi, Jr. (Cross-Complainant); As to: Lena Giron (Cross-Defendant)
 11/18/2024	; Default not entered as to Ryan Levihn-Coon; On the Cross-Complaint filed by Gregory Toshio Doi, Jr. on 09/11/2024
 11/18/2024	; Default not entered as to Lena Giron; On the Cross-Complaint filed by Gregory Toshio Doi, Jr. on 09/11/2024
-11/18/2024	Request for Entry of Default / Judgment; Filed by: Gregory Toshio Doi, Jr. (Cross-Complainant); As to: Lena Giron (Cross-Defendant)
 11/15/2024	Address for Ryan Levihn-Coon (Plaintiff) updated
 11/15/2024	Address for Lena Giron (Plaintiff) updated
 11/14/2024	Reply to Defendant Doi, Jr.'s Opposition to Plaintiffs' Motion to Recover Costs of Personal Service of Summons and Complaint; Filed by: Ryan Levihn-Coon (Plaintiff)
@@ -471,8 +471,8 @@ REGISTER OF ACTIONS
 11/7/2024	Opposition DEFENDANT GREGORY TOSHIO DOI?S OPPOSITION TO MOTION TO RECOVER COSTS; MEMORANDUM OF POINTS AND AUTHORITIES; DECLARATION OF GREGORY TOSHIO DOI; Filed by: Gregory Toshio Doi, Jr. (Defendant)
 10/16/2024	Hearing on Motion for Judgment on the Pleadings scheduled for 01/21/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 10/15/2024	Motion for Judgment on the Pleadings; Filed by: Gregory Toshio Doi, Jr. (Defendant)
-10/11/2024	Declaration of Demurring Party in Support of Automatic Extension; Filed by: Ryan Levihn-Coon (Cross-Defendant)
 10/11/2024	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Cross-Defendant); As to: Gregory Toshio Doi, Jr. (Cross-Complainant)
+10/11/2024	Declaration of Demurring Party in Support of Automatic Extension; Filed by: Ryan Levihn-Coon (Cross-Defendant)
 10/9/2024	Notice Re: Continuance of Hearing and Order; Filed by: Clerk
 10/9/2024	On the Court's own motion, Case Management Conference scheduled for 11/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Rescheduled by Court was rescheduled to 11/21/2024 08:30 AM
 9/24/2024	Hearing on Motion - Other Motion to Recover Costs of Personal Service after Refusal by Defendant Gregory Doi, Jr. to Accept Service by Mail [Cal. Code Civ. Proc. section 415.30(d)] scheduled for 11/21/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
@@ -517,9 +517,9 @@ REGISTER OF ACTIONS
 6/13/2024	On the Court's own motion, Case Management Conference scheduled for 08/06/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 51 Not Held - Advanced and Continued - by Court was rescheduled to 08/16/2024 09:00 AM
 4/3/2024	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 04/03/2024 to 04/03/2024 ; Status changed from TP to Signed and Filed
 4/3/2024	Order on Court Fee Waiver (Superior Court); TP by:
-4/2/2024	Notice of Related Case; Filed by: Ryan Levihn-Coon (Plaintiff)
 4/2/2024	Case Management Conference scheduled for 08/06/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 51
 4/2/2024	Notice of Case Management Conference; Filed by: Clerk
+4/2/2024	Notice of Related Case; Filed by: Ryan Levihn-Coon (Plaintiff)
 3/29/2024	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/29/2024 to 03/29/2024
 3/29/2024	Case assigned to Hon. Upinder S. Kalra in Department 51 Stanley Mosk Courthouse
 3/29/2024	Order on Court Fee Waiver (Superior Court); Signed and Filed by: Clerk; As to: Ryan Levihn-Coon (Plaintiff)
@@ -1483,26 +1483,26 @@ REGISTER OF ACTIONS
 11/13/2025	Certificate of Mailing for (Court Order) of 11/13/2025; Filed by: Clerk
 11/13/2025	On the Court's own motion, Case Management Conference scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68 Not Held - Advanced and Continued - by Court was rescheduled to 04/17/2026 08:30 AM
 11/13/2025	On the Court's own motion, Order to Show Cause Re: Failure to File Proof of Service scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68 Not Held - Advanced and Continued - by Court was rescheduled to 04/17/2026 08:30 AM
+3/13/2025	Case reassigned to Stanley Mosk Courthouse in Department 68 - Hon. Stephen P. Pfahler; Reason: Other
 3/13/2025	Case Management Conference scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68
 3/13/2025	Order to Show Cause Re: Failure to File Proof of Service scheduled for 12/03/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 68
 3/13/2025	Notice of Case Management Conference; Filed by: Clerk
 3/13/2025	Order to Show Cause Failure to File Proof of Service; Filed by: Clerk
-3/13/2025	Case reassigned to Stanley Mosk Courthouse in Department 68 - Hon. Stephen P. Pfahler; Reason: Other
-3/13/2025	Certificate of Mailing for (Court Order Re Reassignment to an Independent Calendar Court) of 03/13/2025; Filed by: Clerk
 3/13/2025	Minute Order (Court Order Re Reassignment to an Independent Calendar Court)
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/06/2025 to 03/10/2025 ; Status changed from To Be Processed to Signed and Filed
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Result: Granted ; Result Date: 03/10/2025
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/06/2025 to 03/10/2025 ; Status changed from To Be Processed to Signed and Filed
-3/10/2025	Certificate of Mailing for (Court Order Re: Non-Complex Determination) of 03/10/2025; Filed by: Clerk
-3/10/2025	Minute Order (Court Order Re: Non-Complex Determination)
-3/10/2025	The case is removed from the special status of: Provisionally Complex ? Case Type
-3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Result: Granted ; Result Date: 03/10/2025
+3/13/2025	Certificate of Mailing for (Court Order Re Reassignment to an Independent Calendar Court) of 03/13/2025; Filed by: Clerk
 3/10/2025	The case is placed in special status of: Deemed Non--Complex
+3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Result: Granted ; Result Date: 03/10/2025
+3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Result: Granted ; Result Date: 03/10/2025
+3/10/2025	Minute Order (Court Order Re: Non-Complex Determination)
+3/10/2025	Certificate of Mailing for (Court Order Re: Non-Complex Determination) of 03/10/2025; Filed by: Clerk
+3/10/2025	The case is removed from the special status of: Provisionally Complex ? Case Type
+3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/06/2025 to 03/10/2025 ; Status changed from To Be Processed to Signed and Filed
+3/10/2025	Updated -- Order on Court Fee Waiver (Superior Court): Status Date changed from 03/06/2025 to 03/10/2025 ; Status changed from To Be Processed to Signed and Filed
 3/10/2025	Case reassigned to Stanley Mosk Courthouse in Department 1 - Hon. Lawrence P. Riff; Reason: Deemed Non-Complex
-3/5/2025	Alternative Dispute Resolution Packet; Filed by: Clerk
-3/5/2025	Summons on Complaint; Issued and Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
-3/5/2025	Civil Case Cover Sheet; Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
 3/5/2025	Complaint for Damages, Declaratory Relief, Injunctive Relief and Appointment of Receivership; Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
+3/5/2025	Civil Case Cover Sheet; Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
+3/5/2025	Summons on Complaint; Issued and Filed by: Lena Giron (Plaintiff); Ryan Levihn-Coon (Plaintiff); As to: AMCAL Tesoro del Valle Fund, LP (Defendant); Foundation for Affordable Housing V, Inc. (Defendant); FPI Management, Inc. (Defendant) et al.
+3/5/2025	Alternative Dispute Resolution Packet; Filed by: Clerk
 3/5/2025	The case is placed in special status of: Provisionally Complex ? Case Type
 3/5/2025	Case assigned in Department 7 Spring Street Courthouse
 Back To Top
