@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Wednesday, September 16, 2026 at 11:16 AM (Central, approx)
+**Generated:** Thursday, September 17, 2026 at 11:23 AM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -1123,13 +1123,13 @@ PROCEEDINGS HELD
 5/28/2025 08:30 AM	Department 30	Order to Show Cause Re:	Held
 5/28/2025 08:30 AM	Department 30	Status Conference	Held
 2/27/2025 08:31 AM	Department 30	Nunc Pro Tunc Order
-2/27/2025 08:30 AM	Department 30	Case Management Conference	Held - Advanced and Heard
 2/27/2025 08:30 AM	Department 30	Case Management Conference	Not Held - Clerical Error
+2/27/2025 08:30 AM	Department 30	Case Management Conference	Held - Advanced and Heard
 2/27/2025 08:30 AM	Department 30	Hearing on Motion to Compel Discovery (not "Further Discovery")	Not Held - Clerical Error
 2/27/2025 08:30 AM	Department 30	Status Conference	Held - Continued
 2/24/2025 08:30 AM	Department 30	Case Management Conference	Not Held - Clerical Error
-2/24/2025 08:30 AM	Department 30	Hearing on Motion to Compel Discovery (not "Further Discovery")	Held - Motion Granted
 2/24/2025 08:30 AM	Department 30	Hearing on Motion to Compel Discovery (not "Further Discovery")	Not Held - Advanced and Continued - by Court
+2/24/2025 08:30 AM	Department 30	Hearing on Motion to Compel Discovery (not "Further Discovery")	Held - Motion Granted
 2/3/2025 08:30 AM	Department 30	Hearing on Motion to Compel Discovery (not "Further Discovery")	Not Held - Vacated by Court
 12/10/2024 09:00 AM	Department 30	Case Management Conference	Not Held - Clerical Error
 12/10/2024 09:00 AM	Department 30	Order to Show Cause Re:	Not Held - Clerical Error
