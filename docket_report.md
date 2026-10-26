@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Friday, October 23, 2026 at 11:45 AM (Central, approx)
+**Generated:** Monday, October 26, 2026 at 01:20 PM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -11,6 +11,7 @@
 ## Doi Case — 24STCV08032
 
 ```
+Civil case data may be unavailable from Tuesday, 10/27/2026 from 7:30 pm to 11:30 pm.
 CASE INFORMATION:	24STCV08032
 Case Title:	RYAN LEVIHN-COON, ET AL. VS GREGORY TOSHIO DOI, JR.
 Filing Courthouse:	Stanley Mosk Courthouse
@@ -544,6 +545,7 @@ Back To Top
 ## Scenic Case — 24STCV05152
 
 ```
+Civil case data may be unavailable from Tuesday, 10/27/2026 from 7:30 pm to 11:30 pm.
 CASE INFORMATION:	24STCV05152
 Case Title:	RYAN LEVIHN-COON, ET AL. VS MARK ANDREW LARINTO, ET AL.
 Filing Courthouse:	Stanley Mosk Courthouse
@@ -996,6 +998,7 @@ Back To Top
 ## Jan's Towing Case — 24STCV10654
 
 ```
+Civil case data may be unavailable from Tuesday, 10/27/2026 from 7:30 pm to 11:30 pm.
 CASE INFORMATION:	24STCV10654
 Case Title:	RYAN LEVIHN-COON VS JAN'S TOWING, INC., ET AL.
 Filing Courthouse:	Stanley Mosk Courthouse
@@ -1494,6 +1497,7 @@ Back To Top
 ## Tesoro Case — 25STCV06166
 
 ```
+Civil case data may be unavailable from Tuesday, 10/27/2026 from 7:30 pm to 11:30 pm.
 CASE INFORMATION:	25STCV06166
 Case Title:	LENA GIRON, ET AL. VS AMCAL TESORO DEL VALLE FUND, LP, A CALIFORNIA LIMITED PARTNERSHIP, ET AL.
 Filing Courthouse:	Stanley Mosk Courthouse
