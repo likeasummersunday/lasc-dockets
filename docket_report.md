@@ -1,6 +1,6 @@
 # LASC Active Case Docket Report
 
-**Generated:** Friday, November 20, 2026 at 02:39 PM (Central, approx)
+**Generated:** Monday, November 23, 2026 at 06:27 PM (Central, approx)
 
 **Ryan Levihn-Coon - Pro Per Plaintiff**
 
@@ -766,9 +766,9 @@ REGISTER OF ACTIONS
 11/19/2026	Updated -- Robert Campbell (Doe 1) (Defendant): Last Name changed from Campbell (Doe 3) to Campbell (Doe 1)
 11/16/2026	Amendment to Complaint (Fictitious/Incorrect Name); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Robert Campbell (Doe 1) (Defendant)
 11/16/2026	Amendment to Complaint (Fictitious/Incorrect Name); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Robert Campbell (Doe 3) (Defendant)
-10/27/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: ADRIAN LEXUS SIAZON [DOE 2] (Defendant)
-10/27/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: ADRIAN LEXUS SIAZON [DOE 2] (Defendant)
 10/27/2026	Application for Order Extending Time to Serve Defendant Adrian Lexus Siazon (Doe 2) and File Proof of Service; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: ADRIAN LEXUS SIAZON [DOE 2] (Defendant)
+10/27/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: ADRIAN LEXUS SIAZON [DOE 2] (Defendant)
+10/27/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: ADRIAN LEXUS SIAZON [DOE 2] (Defendant)
 10/16/2026	Notice of System Error:Certificates of Service from 10/02/26 - 10/13/26, do not properly reflect the correct electronic service date. The documents were sent on 10/13/26. For any duty to act or respond, this date should be used for computation of time. Issued by: Clerk
 10/12/2026	Answer; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 10/9/2026	Amended Complaint (3rd); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
@@ -781,8 +781,8 @@ REGISTER OF ACTIONS
 10/1/2026	Hearing on Motion to Compel Further Discovery Responses (CRS# 0370) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 updated: Result Date to 10/01/2026; Result Type to Held
 10/1/2026	Hearing on Motion to Compel Further Discovery Responses (CRS# 3947) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 updated: Result Date to 10/01/2026; Result Type to Held
 10/1/2026	Hearing on Motion to Compel Further Discovery Responses (CRS# 7954) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 updated: Result Date to 10/01/2026; Result Type to Held
-10/1/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") (CRS# 2177) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 updated: Result Date to 10/01/2026; Result Type to Held
 10/1/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") (CRS# 0511) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 updated: Result Date to 10/01/2026; Result Type to Held
+10/1/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") (CRS# 2177) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 updated: Result Date to 10/01/2026; Result Type to Held
 10/1/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") (CRS# 4738) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 updated: Result Date to 10/01/2026; Result Type to Held
 9/28/2026	Amendment to Complaint (Fictitious/Incorrect Name); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: ADRIAN LEXUS SIAZON [DOE 2] (Defendant)
 9/28/2026	Notice Plaintiff Ryan Levihn-Coon's Statement Regarding the Status of His Further Discovery Responses; Declaration of Ryan Levihn-Coon; Filed by: Ryan Levihn-Coon (Plaintiff); As to: Gregory Toshio Doi, Jr. (Defendant)
@@ -791,11 +791,11 @@ REGISTER OF ACTIONS
 9/23/2026	Reply DEFENDANT AND CROSS- COMPLAINANT GREGORY TOSHIO DOI, JR. REPLY TO PLAINTIFF RYAN LEVIHN-COONS OPPOSITION TO MOTION TO COMPEL FURTHER RESPONSES TO REQUESTS FOR ADMISSION, SET ONE AND REQUEST FOR MONETARY SANCTIONS; Filed by: Gregory Toshio Doi, Jr. (Defendant)
 9/23/2026	Reply DEFENDANT AND CROSS- COMPLAINANT GREGORY TOSHIO DOI, JR. REPLY TO PLAINTIFF RYAN LEVIHN-COONS OPPOSITION TO MOTION TO COMPEL FURTHER RESPONSES TO REQUESTS FOR ADMISSION, SET ONE AND REQUEST FOR MONETARY SANCTIONS; Filed by: Gregory Toshio Doi, Jr. (Defendant)
 9/23/2026	Reply DEFENDANT AND CROSS- COMPLAINANT GREGORY TOSHIO DOI, JR. REPLY TO PLAINTIFF RYAN LEVIHN-COONS OPPOSITION TO MOTION TO COMPEL FURTHER RESPONSES TO FORM, INTERROGATORIES, SET ONE AND REQUEST FOR MONETARY SANCTIONS; Filed by: Gregory Toshio Doi, Jr. (Defendant)
-9/17/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Scenic Expressions, Inc., a California corporation (Defendant)
 9/17/2026	Opposition PLAINTIFF RYAN LEVIHN-COON?S OPPOSITION TO DEFENDANT?S MOTION TO COMPEL FURTHER RESPONSES TO REQUESTS FOR ADMISSION, SET ONE; DECLARATION OF RYAN LEVIHN-COON; Filed by: Ryan Levihn-Coon (Cross-Complainant)
 9/17/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Cross-Complainant); As to: Lena Giron (Cross-Complainant); Gregory Toshio Doi, Jr. (Cross-Defendant); Andrea Marie Crowl Doi (Cross-Defendant)
 9/17/2026	Opposition PLAINTIFF RYAN LEVIHN-COON?S OPPOSITION TO DEFENDANT?S MOTION TO COMPEL FURTHER RESPONSES TO FORM INTERROGATORIES, SET ONE; DECLARATION OF RYAN LEVIHN-COON; Filed by: Ryan Levihn-Coon (Cross-Complainant)
 9/17/2026	Opposition PLAINTIFF RYAN LEVIHN-COON?S OPPOSITION TO DEFENDANT?S MOTION TO COMPEL FURTHER RESPONSES TO REQUESTS FOR PRODUCTION OF DOCUMENTS, SET ONE; DECLARATION OF RYAN LEVIHN-COON; Filed by: Ryan Levihn-Coon (Cross-Complainant)
+9/17/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Scenic Expressions, Inc., a California corporation (Defendant)
 9/4/2026	Answer DEFENDANT/CROSS-COMPLAINANT GREGORY TOSHIO DOI, JR.?S ANSWER TO FIRST AMENDED COMPLAINT; Filed by: Gregory Toshio Doi, Jr. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 8/26/2026	Hearing on Motion to Compel Further Discovery Responses (CRS# 3947) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410
 8/26/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") (CRS# 0511) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410
@@ -803,16 +803,16 @@ REGISTER OF ACTIONS
 8/26/2026	Hearing on Motion to Compel Discovery (not "Further Discovery") (CRS# 4738) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410
 8/26/2026	Hearing on Motion to Compel Further Discovery Responses (CRS# 7954) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410
 8/26/2026	Hearing on Motion to Compel Further Discovery Responses (CRS# 0370) scheduled for 10/01/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410
-8/26/2026	Certificate of Mailing for (Ruling on Submitted Matter) of 08/26/2026; Filed by: Clerk
 8/26/2026	Minute Order (Ruling on Submitted Matter)
+8/26/2026	Certificate of Mailing for (Ruling on Submitted Matter) of 08/26/2026; Filed by: Clerk
 8/26/2026	Clerks Certificate of Service By Electronic Service; Filed by: Clerk; As to: Monique R. Donavan (Attorney); Jennifer Felten (Attorney)
 8/18/2026	Notice of Ruling; Filed by: Gregory Toshio Doi, Jr. (Defendant)
 8/18/2026	Minute Order (Ruling on Submitted Matter)
 8/18/2026	Certificate of Mailing for (Ruling on Submitted Matter) of 08/18/2026; Filed by: Clerk
 8/18/2026	Clerks Certificate of Service By Electronic Service; Filed by: Clerk; As to: Monique R. Donavan (Attorney); Jennifer Felten (Attorney); Ryan Levihn-Coon (Plaintiff)
-8/17/2026	Declaration of Plaintiff Ryan Levihn-Coon ISO Notice of Errata re Second Amended Complaint; Filed by: Ryan Levihn-Coon (Plaintiff)
-8/17/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
 8/17/2026	Notice of Errata re Second Amended Complaint; Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+8/17/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+8/17/2026	Declaration of Plaintiff Ryan Levihn-Coon ISO Notice of Errata re Second Amended Complaint; Filed by: Ryan Levihn-Coon (Plaintiff)
 8/11/2026	Minute Order (Court Order)
 8/11/2026	Case numbers 24STCV05152, and 24STCV08032 consolidated; case number 24STCV05152 is the lead case.
 7/31/2026	Answer; Filed by: Scenic Expressions, Inc., a California corporation (Defendant); Tyler Vincent Larinto, in his official capacity as manager and employee of Scenic Expressions, Inc. (Defendant); Mark Andrew Larinto, in his official capacity as co-owner, managing partner and employee of Scenic Expressions, Inc. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
@@ -838,10 +838,10 @@ REGISTER OF ACTIONS
 5/29/2026	Notice Re: Continuance of Hearing and Order; Filed by: Clerk
 5/29/2026	On the Court's own motion, Case Management Conference scheduled for 07/30/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410 Not Held - Rescheduled by Court was rescheduled to 07/21/2026 08:30 AM
 5/8/2026	Hearing on Demurrer - with Motion to Strike (CCP 430.10) scheduled for 07/21/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 410
-5/7/2026	Demurrer - with Motion to Strike (CCP 430.10); Filed by: Scenic Expressions, Inc., a California corporation (Defendant); Tyler Vincent Larinto, in his official capacity as manager and employee of Scenic Expressions, Inc. (Defendant); Mark Andrew Larinto, in his official capacity as co-owner, managing partner and employee of Scenic Expressions, Inc. (Defendant)
 5/7/2026	Motion to Strike (not initial pleading); Filed by: Scenic Expressions, Inc., a California corporation (Defendant); Tyler Vincent Larinto, in his official capacity as manager and employee of Scenic Expressions, Inc. (Defendant); Mark Andrew Larinto, in his official capacity as co-owner, managing partner and employee of Scenic Expressions, Inc. (Defendant)
-4/7/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+5/7/2026	Demurrer - with Motion to Strike (CCP 430.10); Filed by: Scenic Expressions, Inc., a California corporation (Defendant); Tyler Vincent Larinto, in his official capacity as manager and employee of Scenic Expressions, Inc. (Defendant); Mark Andrew Larinto, in his official capacity as co-owner, managing partner and employee of Scenic Expressions, Inc. (Defendant)
 4/7/2026	Amended Complaint (2nd); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
+4/7/2026	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
 3/19/2026	Case Management Conference scheduled for 07/30/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 3/19/2026	The case is removed from the special status of: Stay - Entire Action/Case
 3/18/2026	Notice of Change of Address or Other Contact Information; Filed by: Ryan Levihn-Coon (Plaintiff)
@@ -859,8 +859,8 @@ REGISTER OF ACTIONS
 6/5/2025	Minute Order (Case Management Conference; Hearing on Demurrer - with Motion...)
 6/5/2025	Case Management Conference scheduled for 06/05/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Not Held - Vacated by Court on 06/05/2025
 6/5/2025	Hearing on Demurrer - with Motion to Strike (CCP 430.10) (CRS# 2875) scheduled for 06/05/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36 updated: Result Date to 06/05/2025; Result Type to Held - Taken under Submission
-6/4/2025	The case is placed in special status of: Stay - Entire Action/Case
 6/4/2025	Order to Show Cause Re: Lifting of Stay scheduled for 03/04/2026 at 08:30 AM in Stanley Mosk Courthouse at Department 36
+6/4/2025	The case is placed in special status of: Stay - Entire Action/Case
 6/4/2025	On the Court's own motion, Hearing on Motion for Stay of Proceedings scheduled for 09/11/2025 at 08:30 AM in Stanley Mosk Courthouse at Department 36 Held - Advanced and Heard on 06/03/2025
 6/3/2025	Updated -- Motion for Stay of Proceedings: Filed By: Lena Giron (Plaintiff),Ryan Levihn-Coon (Plaintiff); Result: Granted ; Result Date: 06/03/2025
 6/3/2025	Updated -- Ex Parte Application For Order Shortening Time on Hearing of Plaintiffs' Motion for Order Staying Proceedings: Filed By: Lena Giron (Plaintiff),Ryan Levihn-Coon (Plaintiff); Result: Granted ; Result Date: 06/03/2025
@@ -912,9 +912,9 @@ REGISTER OF ACTIONS
 11/22/2024	Address for Ryan Levihn-Coon (Plaintiff) updated
 11/22/2024	Address for Lena Giron (Plaintiff) updated
 11/20/2024	Notice of Change of Address or Other Contact Information; Filed by: Ryan Levihn-Coon (Plaintiff)
+11/20/2024	Notice of Change of Address or Other Contact Information; Filed by: Lena Giron (Plaintiff)
 11/20/2024	Amended Complaint (1st); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
 11/20/2024	Proof of Service (not Summons and Complaint); Filed by: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff); As to: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant) et al.
-11/20/2024	Notice of Change of Address or Other Contact Information; Filed by: Lena Giron (Plaintiff)
 11/19/2024	Demurrer - without Motion to Strike; Filed by: Lena Giron (Cross-Defendant); Ryan Levihn-Coon (Cross-Defendant)
 11/18/2024	; Default not entered as to Ryan Levihn-Coon; On the Cross-Complaint filed by Gregory Toshio Doi, Jr. on 09/11/2024
 11/18/2024	; Default not entered as to Lena Giron; On the Cross-Complaint filed by Gregory Toshio Doi, Jr. on 09/11/2024
@@ -935,10 +935,10 @@ REGISTER OF ACTIONS
 10/2/2024	Minute Order (Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE F...)
 10/2/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 updated: Result Date to 10/02/2024; Result Type to Held - Motion Granted
 10/2/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36 updated: Result Date to 10/02/2024; Result Type to Held - Motion Granted
-10/1/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 10/1/2024	Ex Parte Application DEFENDANTS AMENDED EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
-9/30/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
+10/1/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 9/30/2024	Ex Parte Application DEFENDANTS EX PARTE APPLICATION FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT; MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT THEREOF; DECLARTION OF MONIQUE R. DONAVAN; [PROPOSED] ORDER; Filed by: Mark Andrew Larinto (Defendant); Tyler Vincent Larinto (Defendant); Scenic Expressions, Inc., a California corporation (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
+9/30/2024	Hearing on Ex Parte Application FOR AN ORDER PERMITTING THE FILING OF A DEMURRER TO PLAINTIFFS COMPLAINT WHICH EXCEEDS THE 15 PAGE LIMIT scheduled for 10/02/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
 9/12/2024	Updated -- Jennifer Felten (Attorney): Organization Name: RELAW, APC
 9/11/2024	Answer; Filed by: Gregory Toshio Doi, Jr. (Defendant); As to: Ryan Levihn-Coon (Plaintiff); Lena Giron (Plaintiff)
 9/4/2024	Case Management Conference scheduled for 11/04/2024 at 08:30 AM in Stanley Mosk Courthouse at Department 36
